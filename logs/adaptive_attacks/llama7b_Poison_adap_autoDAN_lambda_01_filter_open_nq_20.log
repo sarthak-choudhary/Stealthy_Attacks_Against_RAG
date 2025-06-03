@@ -1,0 +1,2662 @@
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.53s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.03s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.11s/it]
+######################## Iter: 1/1 #######################
+############# Target Question: 3 #############
+Question: when did the us cut off trade with cuba
+
+[Step 0] Loss: 10.1700, Contribution Variance: 100.661255
+
+[Step 1] Loss: 8.7472, Contribution Variance: 87.470261
+
+Length of current word dictionary: 32
+[Step 2] Loss: 8.2470, Contribution Variance: 81.861847
+
+Length of current word dictionary: 132
+[Step 3] Loss: 8.2470, Contribution Variance: 81.861847
+
+Length of current word dictionary: 158
+[Step 4] Loss: 8.2470, Contribution Variance: 81.861847
+
+Length of current word dictionary: 180
+[Step 5] Loss: 8.2470, Contribution Variance: 81.861847
+
+[Step 6] Loss: 8.0443, Contribution Variance: 80.442131
+
+Length of current word dictionary: 191
+[Step 7] Loss: 8.0443, Contribution Variance: 80.442131
+
+Length of current word dictionary: 196
+[Step 8] Loss: 8.0443, Contribution Variance: 80.442131
+
+Length of current word dictionary: 203
+[Step 9] Loss: 8.0443, Contribution Variance: 80.442131
+
+Length of current word dictionary: 209
+[Step 10] Loss: 8.0443, Contribution Variance: 80.442131
+
+[Step 11] Loss: 6.6131, Contribution Variance: 64.564148
+
+Length of current word dictionary: 210
+[Step 12] Loss: 6.6131, Contribution Variance: 64.564148
+
+Length of current word dictionary: 214
+[Step 13] Loss: 6.6131, Contribution Variance: 64.564148
+
+Length of current word dictionary: 216
+[Step 14] Loss: 6.6131, Contribution Variance: 64.564148
+
+Length of current word dictionary: 219
+[Step 15] Loss: 6.6131, Contribution Variance: 64.564148
+
+[Step 16] Loss: 6.6131, Contribution Variance: 64.564148
+
+Length of current word dictionary: 219
+[Step 17] Loss: 6.6131, Contribution Variance: 64.564148
+
+Length of current word dictionary: 222
+[Step 18] Loss: 6.6131, Contribution Variance: 64.564148
+
+Length of current word dictionary: 226
+[Step 19] Loss: 6.6131, Contribution Variance: 64.564148
+
+Length of current word dictionary: 231
+[Step 20] Loss: 6.6131, Contribution Variance: 64.564148
+
+[Step 21] Loss: 6.6131, Contribution Variance: 64.564148
+
+Length of current word dictionary: 231
+[Step 22] Loss: 6.6131, Contribution Variance: 64.564148
+
+Length of current word dictionary: 231
+[Step 23] Loss: 6.6131, Contribution Variance: 64.564148
+
+Length of current word dictionary: 231
+[Step 24] Loss: 6.6131, Contribution Variance: 64.564148
+
+Length of current word dictionary: 231
+[Step 25] Loss: 6.6131, Contribution Variance: 64.564148
+
+[Step 26] Loss: 6.5152, Contribution Variance: 63.747112
+
+Length of current word dictionary: 231
+[Step 27] Loss: 6.5152, Contribution Variance: 63.747112
+
+Length of current word dictionary: 231
+[Step 28] Loss: 6.5152, Contribution Variance: 63.747112
+
+Length of current word dictionary: 231
+[Step 29] Loss: 6.5152, Contribution Variance: 63.747112
+
+Length of current word dictionary: 234
+[Step 30] Loss: 6.5152, Contribution Variance: 63.747112
+
+[Step 31] Loss: 6.5152, Contribution Variance: 63.747112
+
+Length of current word dictionary: 234
+[Step 32] Loss: 6.5152, Contribution Variance: 63.747112
+
+Length of current word dictionary: 234
+[Step 33] Loss: 6.5152, Contribution Variance: 63.747112
+
+Length of current word dictionary: 235
+[Step 34] Loss: 6.5152, Contribution Variance: 63.747112
+
+Length of current word dictionary: 236
+[Step 35] Loss: 6.5152, Contribution Variance: 63.747112
+
+[Step 36] Loss: 6.4945, Contribution Variance: 63.338421
+
+Length of current word dictionary: 236
+[Step 37] Loss: 6.4945, Contribution Variance: 63.338421
+
+Length of current word dictionary: 236
+[Step 38] Loss: 6.4945, Contribution Variance: 63.338421
+
+Length of current word dictionary: 236
+[Step 39] Loss: 6.4945, Contribution Variance: 63.338421
+
+Length of current word dictionary: 236
+[Step 40] Loss: 6.4945, Contribution Variance: 63.338421
+
+[Step 41] Loss: 6.4945, Contribution Variance: 63.338421
+
+Length of current word dictionary: 236
+[Step 42] Loss: 6.4945, Contribution Variance: 63.338421
+
+Length of current word dictionary: 236
+[Step 43] Loss: 6.4945, Contribution Variance: 63.338421
+
+Length of current word dictionary: 236
+[Step 44] Loss: 6.4945, Contribution Variance: 63.338421
+
+Length of current word dictionary: 236
+[Step 45] Loss: 6.4945, Contribution Variance: 63.338421
+
+[Step 46] Loss: 6.4359, Contribution Variance: 62.845081
+
+Length of current word dictionary: 236
+[Step 47] Loss: 6.4359, Contribution Variance: 62.845081
+
+Length of current word dictionary: 236
+[Step 48] Loss: 6.4359, Contribution Variance: 62.845081
+
+Length of current word dictionary: 236
+[Step 49] Loss: 6.4359, Contribution Variance: 62.845081
+
+Length of current word dictionary: 236
+[Step 50] Loss: 6.4359, Contribution Variance: 62.845081
+
+[Step 51] Loss: 6.4359, Contribution Variance: 62.845081
+
+Length of current word dictionary: 236
+[Step 52] Loss: 6.4359, Contribution Variance: 62.845081
+
+Length of current word dictionary: 236
+[Step 53] Loss: 6.4359, Contribution Variance: 62.845081
+
+Length of current word dictionary: 236
+[Step 54] Loss: 6.4359, Contribution Variance: 62.845081
+
+Length of current word dictionary: 236
+[Step 55] Loss: 6.4359, Contribution Variance: 62.845081
+
+[Step 56] Loss: 6.4359, Contribution Variance: 62.845081
+
+Length of current word dictionary: 236
+[Step 57] Loss: 6.4359, Contribution Variance: 62.845081
+
+Length of current word dictionary: 236
+[Step 58] Loss: 6.4359, Contribution Variance: 62.845081
+
+Length of current word dictionary: 236
+[Step 59] Loss: 6.4359, Contribution Variance: 62.845081
+
+Length of current word dictionary: 236
+[Step 60] Loss: 6.4359, Contribution Variance: 62.845081
+
+[Step 61] Loss: 6.3879, Contribution Variance: 62.578545
+
+Length of current word dictionary: 236
+[Step 62] Loss: 6.3879, Contribution Variance: 62.578545
+
+Length of current word dictionary: 236
+[Step 63] Loss: 6.3879, Contribution Variance: 62.578545
+
+Length of current word dictionary: 236
+[Step 64] Loss: 6.3879, Contribution Variance: 62.578545
+
+Length of current word dictionary: 236
+[Step 65] Loss: 6.3879, Contribution Variance: 62.578545
+
+[Step 66] Loss: 6.3879, Contribution Variance: 62.578545
+
+Length of current word dictionary: 236
+[Step 67] Loss: 6.3879, Contribution Variance: 62.578545
+
+Length of current word dictionary: 236
+[Step 68] Loss: 6.3879, Contribution Variance: 62.578545
+
+Length of current word dictionary: 236
+[Step 69] Loss: 6.3879, Contribution Variance: 62.578545
+
+Length of current word dictionary: 236
+[Step 70] Loss: 6.3879, Contribution Variance: 62.578545
+
+[Step 71] Loss: 6.3879, Contribution Variance: 62.578545
+
+Length of current word dictionary: 236
+[Step 72] Loss: 6.3879, Contribution Variance: 62.578545
+
+Length of current word dictionary: 236
+[Step 73] Loss: 6.3879, Contribution Variance: 62.578545
+
+Length of current word dictionary: 236
+[Step 74] Loss: 6.3879, Contribution Variance: 62.578545
+
+Length of current word dictionary: 236
+[Step 75] Loss: 6.3879, Contribution Variance: 62.578545
+
+[Step 76] Loss: 6.3531, Contribution Variance: 62.415417
+
+Length of current word dictionary: 236
+[Step 77] Loss: 6.3531, Contribution Variance: 62.415417
+
+Length of current word dictionary: 236
+[Step 78] Loss: 6.3531, Contribution Variance: 62.415417
+
+Length of current word dictionary: 236
+[Step 79] Loss: 6.3531, Contribution Variance: 62.415417
+
+Length of current word dictionary: 236
+[Step 80] Loss: 6.3531, Contribution Variance: 62.415417
+
+[Step 81] Loss: 6.3531, Contribution Variance: 62.415417
+
+Length of current word dictionary: 236
+[Step 82] Loss: 6.3531, Contribution Variance: 62.415417
+
+Length of current word dictionary: 236
+[Step 83] Loss: 6.3531, Contribution Variance: 62.415417
+
+Length of current word dictionary: 236
+[Step 84] Loss: 6.3531, Contribution Variance: 62.415417
+
+Length of current word dictionary: 236
+[Step 85] Loss: 6.3531, Contribution Variance: 62.415417
+
+[Step 86] Loss: 6.3531, Contribution Variance: 62.415417
+
+Length of current word dictionary: 236
+[Step 87] Loss: 6.3531, Contribution Variance: 62.415417
+
+Length of current word dictionary: 236
+[Step 88] Loss: 6.3531, Contribution Variance: 62.415417
+
+Length of current word dictionary: 236
+[Step 89] Loss: 6.3531, Contribution Variance: 62.415417
+
+Length of current word dictionary: 236
+[Step 90] Loss: 6.3531, Contribution Variance: 62.415417
+
+[Step 91] Loss: 6.3531, Contribution Variance: 62.415417
+
+Length of current word dictionary: 236
+[Step 92] Loss: 6.3531, Contribution Variance: 62.415417
+
+Length of current word dictionary: 236
+[Step 93] Loss: 6.3531, Contribution Variance: 62.415417
+
+Length of current word dictionary: 236
+[Step 94] Loss: 6.3531, Contribution Variance: 62.415417
+
+Length of current word dictionary: 236
+[Step 95] Loss: 6.3531, Contribution Variance: 62.415417
+
+[Step 96] Loss: 6.3531, Contribution Variance: 62.415417
+
+Length of current word dictionary: 236
+[Step 97] Loss: 6.3531, Contribution Variance: 62.415417
+
+Length of current word dictionary: 236
+[Step 98] Loss: 6.3531, Contribution Variance: 62.415417
+
+Length of current word dictionary: 236
+[Step 99] Loss: 6.3531, Contribution Variance: 62.415417
+
+Length of current word dictionary: 236
+Optimization Finished
+Time taken: 17125.8335 seconds
+Best Loss 6.353109359741211
+############# Target Question: 23 #############
+Question: who had the best strike rate among batsmen who scored over 200 runs in the world cup
+
+[Step 0] Loss: 11.9127, Contribution Variance: 117.177780
+
+[Step 1] Loss: 11.5593, Contribution Variance: 113.461571
+
+Length of current word dictionary: 44
+[Step 2] Loss: 11.5593, Contribution Variance: 113.461571
+
+Length of current word dictionary: 55
+[Step 3] Loss: 11.3079, Contribution Variance: 112.542946
+
+Length of current word dictionary: 67
+[Step 4] Loss: 11.3079, Contribution Variance: 112.542946
+
+Length of current word dictionary: 68
+[Step 5] Loss: 11.3079, Contribution Variance: 112.542946
+
+[Step 6] Loss: 10.0493, Contribution Variance: 98.770485
+
+Length of current word dictionary: 70
+[Step 7] Loss: 10.0493, Contribution Variance: 98.770485
+
+Length of current word dictionary: 75
+[Step 8] Loss: 10.0493, Contribution Variance: 98.770485
+
+Length of current word dictionary: 78
+[Step 9] Loss: 10.0493, Contribution Variance: 98.770485
+
+Length of current word dictionary: 83
+[Step 10] Loss: 10.0493, Contribution Variance: 98.770485
+
+[Step 11] Loss: 8.1518, Contribution Variance: 81.213089
+
+Length of current word dictionary: 85
+[Step 12] Loss: 8.1518, Contribution Variance: 81.213089
+
+Length of current word dictionary: 86
+[Step 13] Loss: 8.1518, Contribution Variance: 81.213089
+
+Length of current word dictionary: 87
+[Step 14] Loss: 8.1518, Contribution Variance: 81.213089
+
+Length of current word dictionary: 89
+[Step 15] Loss: 8.1518, Contribution Variance: 81.213089
+
+[Step 16] Loss: 8.0129, Contribution Variance: 79.661995
+
+Length of current word dictionary: 89
+[Step 17] Loss: 8.0129, Contribution Variance: 79.661995
+
+Length of current word dictionary: 89
+[Step 18] Loss: 8.0129, Contribution Variance: 79.661995
+
+Length of current word dictionary: 89
+[Step 19] Loss: 8.0129, Contribution Variance: 79.661995
+
+Length of current word dictionary: 89
+[Step 20] Loss: 8.0129, Contribution Variance: 79.661995
+
+[Step 21] Loss: 8.0129, Contribution Variance: 79.661995
+
+Length of current word dictionary: 89
+[Step 22] Loss: 7.9750, Contribution Variance: 78.748993
+
+Length of current word dictionary: 90
+[Step 23] Loss: 7.9750, Contribution Variance: 78.748993
+
+Length of current word dictionary: 90
+[Step 24] Loss: 7.6926, Contribution Variance: 76.560402
+
+Length of current word dictionary: 93
+[Step 25] Loss: 7.6926, Contribution Variance: 76.560402
+
+[Step 26] Loss: 7.6926, Contribution Variance: 76.560402
+
+Length of current word dictionary: 93
+[Step 27] Loss: 7.6926, Contribution Variance: 76.560402
+
+Length of current word dictionary: 93
+[Step 28] Loss: 7.6926, Contribution Variance: 76.560402
+
+Length of current word dictionary: 94
+[Step 29] Loss: 7.4094, Contribution Variance: 73.104393
+
+Length of current word dictionary: 95
+[Step 30] Loss: 7.4094, Contribution Variance: 73.104393
+
+[Step 31] Loss: 7.4094, Contribution Variance: 73.104393
+
+Length of current word dictionary: 96
+[Step 32] Loss: 7.4094, Contribution Variance: 73.104393
+
+Length of current word dictionary: 96
+[Step 33] Loss: 7.2827, Contribution Variance: 72.260223
+
+Length of current word dictionary: 96
+[Step 34] Loss: 7.2827, Contribution Variance: 72.260223
+
+Length of current word dictionary: 96
+[Step 35] Loss: 7.2827, Contribution Variance: 72.260223
+
+[Step 36] Loss: 7.2827, Contribution Variance: 72.260223
+
+Length of current word dictionary: 96
+[Step 37] Loss: 7.2827, Contribution Variance: 72.260223
+
+Length of current word dictionary: 96
+[Step 38] Loss: 7.2827, Contribution Variance: 72.260223
+
+Length of current word dictionary: 96
+[Step 39] Loss: 7.2827, Contribution Variance: 72.260223
+
+Length of current word dictionary: 96
+[Step 40] Loss: 7.2827, Contribution Variance: 72.260223
+
+[Step 41] Loss: 7.2827, Contribution Variance: 72.260223
+
+Length of current word dictionary: 96
+[Step 42] Loss: 7.2827, Contribution Variance: 72.260223
+
+Length of current word dictionary: 96
+[Step 43] Loss: 7.0857, Contribution Variance: 69.635757
+
+Length of current word dictionary: 97
+[Step 44] Loss: 7.0857, Contribution Variance: 69.635757
+
+Length of current word dictionary: 98
+[Step 45] Loss: 7.0857, Contribution Variance: 69.635757
+
+[Step 46] Loss: 7.0857, Contribution Variance: 69.635757
+
+Length of current word dictionary: 98
+[Step 47] Loss: 7.0857, Contribution Variance: 69.635757
+
+Length of current word dictionary: 99
+[Step 48] Loss: 7.0857, Contribution Variance: 69.635757
+
+Length of current word dictionary: 99
+[Step 49] Loss: 7.0857, Contribution Variance: 69.635757
+
+Length of current word dictionary: 99
+[Step 50] Loss: 7.0857, Contribution Variance: 69.635757
+
+[Step 51] Loss: 7.0857, Contribution Variance: 69.635757
+
+Length of current word dictionary: 99
+[Step 52] Loss: 7.0857, Contribution Variance: 69.635757
+
+Length of current word dictionary: 99
+[Step 53] Loss: 7.0857, Contribution Variance: 69.635757
+
+Length of current word dictionary: 99
+[Step 54] Loss: 7.0857, Contribution Variance: 69.635757
+
+Length of current word dictionary: 99
+[Step 55] Loss: 7.0857, Contribution Variance: 69.635757
+
+[Step 56] Loss: 7.0857, Contribution Variance: 69.635757
+
+Length of current word dictionary: 99
+[Step 57] Loss: 7.0857, Contribution Variance: 69.635757
+
+Length of current word dictionary: 99
+[Step 58] Loss: 7.0857, Contribution Variance: 69.635757
+
+Length of current word dictionary: 100
+[Step 59] Loss: 7.0857, Contribution Variance: 69.635757
+
+Length of current word dictionary: 101
+[Step 60] Loss: 7.0857, Contribution Variance: 69.635757
+
+[Step 61] Loss: 6.9573, Contribution Variance: 68.199982
+
+Length of current word dictionary: 102
+[Step 62] Loss: 6.9573, Contribution Variance: 68.199982
+
+Length of current word dictionary: 102
+[Step 63] Loss: 6.9573, Contribution Variance: 68.199982
+
+Length of current word dictionary: 103
+[Step 64] Loss: 6.9573, Contribution Variance: 68.199982
+
+Length of current word dictionary: 104
+[Step 65] Loss: 6.9573, Contribution Variance: 68.199982
+
+[Step 66] Loss: 6.9573, Contribution Variance: 68.199982
+
+Length of current word dictionary: 104
+[Step 67] Loss: 6.9573, Contribution Variance: 68.199982
+
+Length of current word dictionary: 104
+[Step 68] Loss: 6.9573, Contribution Variance: 68.199982
+
+Length of current word dictionary: 104
+[Step 69] Loss: 6.9573, Contribution Variance: 68.199982
+
+Length of current word dictionary: 104
+[Step 70] Loss: 6.9573, Contribution Variance: 68.199982
+
+[Step 71] Loss: 6.9573, Contribution Variance: 68.199982
+
+Length of current word dictionary: 104
+[Step 72] Loss: 6.9573, Contribution Variance: 68.199982
+
+Length of current word dictionary: 104
+[Step 73] Loss: 6.9573, Contribution Variance: 68.199982
+
+Length of current word dictionary: 104
+[Step 74] Loss: 6.9573, Contribution Variance: 68.199982
+
+Length of current word dictionary: 104
+[Step 75] Loss: 6.9573, Contribution Variance: 68.199982
+
+[Step 76] Loss: 6.9573, Contribution Variance: 68.199982
+
+Length of current word dictionary: 104
+[Step 77] Loss: 6.9573, Contribution Variance: 68.199982
+
+Length of current word dictionary: 104
+[Step 78] Loss: 6.9573, Contribution Variance: 68.199982
+
+Length of current word dictionary: 104
+[Step 79] Loss: 6.9573, Contribution Variance: 68.199982
+
+Length of current word dictionary: 104
+[Step 80] Loss: 6.9573, Contribution Variance: 68.199982
+
+[Step 81] Loss: 6.9238, Contribution Variance: 68.153656
+
+Length of current word dictionary: 104
+[Step 82] Loss: 6.9238, Contribution Variance: 68.153656
+
+Length of current word dictionary: 104
+[Step 83] Loss: 6.9238, Contribution Variance: 68.153656
+
+Length of current word dictionary: 104
+[Step 84] Loss: 6.9238, Contribution Variance: 68.153656
+
+Length of current word dictionary: 104
+[Step 85] Loss: 6.9238, Contribution Variance: 68.153656
+
+[Step 86] Loss: 6.9123, Contribution Variance: 67.871498
+
+Length of current word dictionary: 104
+[Step 87] Loss: 6.9123, Contribution Variance: 67.871498
+
+Length of current word dictionary: 104
+[Step 88] Loss: 6.9123, Contribution Variance: 67.871498
+
+Length of current word dictionary: 104
+[Step 89] Loss: 6.9123, Contribution Variance: 67.871498
+
+Length of current word dictionary: 104
+[Step 90] Loss: 6.8765, Contribution Variance: 67.733498
+
+[Step 91] Loss: 6.8426, Contribution Variance: 67.275131
+
+Length of current word dictionary: 104
+[Step 92] Loss: 6.8426, Contribution Variance: 67.275131
+
+Length of current word dictionary: 104
+[Step 93] Loss: 6.8426, Contribution Variance: 67.275131
+
+Length of current word dictionary: 104
+[Step 94] Loss: 6.8426, Contribution Variance: 67.275131
+
+Length of current word dictionary: 104
+[Step 95] Loss: 6.8426, Contribution Variance: 67.275131
+
+[Step 96] Loss: 6.7979, Contribution Variance: 66.808701
+
+Length of current word dictionary: 104
+[Step 97] Loss: 6.7979, Contribution Variance: 66.808701
+
+Length of current word dictionary: 104
+[Step 98] Loss: 6.7979, Contribution Variance: 66.808701
+
+Length of current word dictionary: 104
+[Step 99] Loss: 6.7979, Contribution Variance: 66.808701
+
+Length of current word dictionary: 104
+Optimization Finished
+Time taken: 18094.8949 seconds
+Best Loss 6.7978620529174805
+############# Target Question: 32 #############
+Question: who gets first pick of fa cup games
+
+[Step 0] Loss: 3.4219, Contribution Variance: 30.151052
+
+[Step 1] Loss: 3.4219, Contribution Variance: 30.151052
+
+Length of current word dictionary: 27
+[Step 2] Loss: 2.6171, Contribution Variance: 23.572449
+
+Length of current word dictionary: 43
+[Step 3] Loss: 2.6171, Contribution Variance: 23.572449
+
+Length of current word dictionary: 76
+[Step 4] Loss: 2.4522, Contribution Variance: 22.806139
+
+Length of current word dictionary: 154
+[Step 5] Loss: 2.4522, Contribution Variance: 22.806139
+
+[Step 6] Loss: 2.4522, Contribution Variance: 22.806139
+
+Length of current word dictionary: 171
+[Step 7] Loss: 2.4522, Contribution Variance: 22.806139
+
+Length of current word dictionary: 212
+[Step 8] Loss: 2.4522, Contribution Variance: 22.806139
+
+Length of current word dictionary: 237
+[Step 9] Loss: 2.4522, Contribution Variance: 22.806139
+
+Length of current word dictionary: 257
+[Step 10] Loss: 2.4522, Contribution Variance: 22.806139
+
+[Step 11] Loss: 2.4522, Contribution Variance: 22.806139
+
+Length of current word dictionary: 269
+[Step 12] Loss: 2.4522, Contribution Variance: 22.806139
+
+Length of current word dictionary: 282
+[Step 13] Loss: 2.4522, Contribution Variance: 22.806139
+
+Length of current word dictionary: 293
+[Step 14] Loss: 2.4522, Contribution Variance: 22.806139
+
+Length of current word dictionary: 306
+[Step 15] Loss: 2.4522, Contribution Variance: 22.806139
+
+[Step 16] Loss: 2.4522, Contribution Variance: 22.806139
+
+Length of current word dictionary: 314
+[Step 17] Loss: 2.4522, Contribution Variance: 22.806139
+
+Length of current word dictionary: 322
+[Step 18] Loss: 2.4522, Contribution Variance: 22.806139
+
+Length of current word dictionary: 328
+[Step 19] Loss: 2.4522, Contribution Variance: 22.806139
+
+Length of current word dictionary: 338
+[Step 20] Loss: 2.4522, Contribution Variance: 22.806139
+
+[Step 21] Loss: 2.4079, Contribution Variance: 23.246737
+
+Length of current word dictionary: 343
+[Step 22] Loss: 2.4079, Contribution Variance: 23.246737
+
+Length of current word dictionary: 350
+[Step 23] Loss: 2.4079, Contribution Variance: 23.246737
+
+Length of current word dictionary: 356
+[Step 24] Loss: 2.4079, Contribution Variance: 23.246737
+
+Length of current word dictionary: 361
+[Step 25] Loss: 2.4079, Contribution Variance: 23.246737
+
+[Step 26] Loss: 2.3600, Contribution Variance: 22.489855
+
+Length of current word dictionary: 363
+[Step 27] Loss: 2.3600, Contribution Variance: 22.489855
+
+Length of current word dictionary: 366
+[Step 28] Loss: 2.3600, Contribution Variance: 22.489855
+
+Length of current word dictionary: 369
+[Step 29] Loss: 2.3600, Contribution Variance: 22.489855
+
+Length of current word dictionary: 369
+[Step 30] Loss: 2.3600, Contribution Variance: 22.489855
+
+[Step 31] Loss: 2.3600, Contribution Variance: 22.489855
+
+Length of current word dictionary: 371
+[Step 32] Loss: 2.3600, Contribution Variance: 22.489855
+
+Length of current word dictionary: 372
+[Step 33] Loss: 2.3600, Contribution Variance: 22.489855
+
+Length of current word dictionary: 374
+[Step 34] Loss: 2.3600, Contribution Variance: 22.489855
+
+Length of current word dictionary: 376
+[Step 35] Loss: 2.3600, Contribution Variance: 22.489855
+
+[Step 36] Loss: 2.3600, Contribution Variance: 22.489855
+
+Length of current word dictionary: 377
+[Step 37] Loss: 2.3600, Contribution Variance: 22.489855
+
+Length of current word dictionary: 379
+[Step 38] Loss: 2.3600, Contribution Variance: 22.489855
+
+Length of current word dictionary: 381
+[Step 39] Loss: 2.3600, Contribution Variance: 22.489855
+
+Length of current word dictionary: 384
+[Step 40] Loss: 2.3600, Contribution Variance: 22.489855
+
+[Step 41] Loss: 2.3600, Contribution Variance: 22.489855
+
+Length of current word dictionary: 386
+[Step 42] Loss: 2.3600, Contribution Variance: 22.489855
+
+Length of current word dictionary: 389
+[Step 43] Loss: 2.3600, Contribution Variance: 22.489855
+
+Length of current word dictionary: 391
+[Step 44] Loss: 2.3600, Contribution Variance: 22.489855
+
+Length of current word dictionary: 394
+[Step 45] Loss: 2.3600, Contribution Variance: 22.489855
+
+[Step 46] Loss: 2.3481, Contribution Variance: 23.071903
+
+Length of current word dictionary: 397
+[Step 47] Loss: 2.3481, Contribution Variance: 23.071903
+
+Length of current word dictionary: 403
+[Step 48] Loss: 2.3481, Contribution Variance: 23.071903
+
+Length of current word dictionary: 408
+[Step 49] Loss: 2.3481, Contribution Variance: 23.071903
+
+Length of current word dictionary: 412
+[Step 50] Loss: 2.3481, Contribution Variance: 23.071903
+
+[Step 51] Loss: 2.3380, Contribution Variance: 22.808710
+
+Length of current word dictionary: 413
+[Step 52] Loss: 2.3380, Contribution Variance: 22.808710
+
+Length of current word dictionary: 417
+[Step 53] Loss: 2.3380, Contribution Variance: 22.808710
+
+Length of current word dictionary: 421
+[Step 54] Loss: 2.3380, Contribution Variance: 22.808710
+
+Length of current word dictionary: 426
+[Step 55] Loss: 2.3380, Contribution Variance: 22.808710
+
+[Step 56] Loss: 2.3380, Contribution Variance: 22.808710
+
+Length of current word dictionary: 427
+[Step 57] Loss: 2.3380, Contribution Variance: 22.808710
+
+Length of current word dictionary: 430
+[Step 58] Loss: 2.3380, Contribution Variance: 22.808710
+
+Length of current word dictionary: 433
+[Step 59] Loss: 2.3380, Contribution Variance: 22.808710
+
+Length of current word dictionary: 435
+[Step 60] Loss: 2.3380, Contribution Variance: 22.808710
+
+[Step 61] Loss: 2.3380, Contribution Variance: 22.808710
+
+Length of current word dictionary: 438
+[Step 62] Loss: 2.3380, Contribution Variance: 22.808710
+
+Length of current word dictionary: 439
+[Step 63] Loss: 2.3380, Contribution Variance: 22.808710
+
+Length of current word dictionary: 441
+[Step 64] Loss: 2.3380, Contribution Variance: 22.808710
+
+Length of current word dictionary: 443
+[Step 65] Loss: 2.3380, Contribution Variance: 22.808710
+
+[Step 66] Loss: 2.3380, Contribution Variance: 22.808710
+
+Length of current word dictionary: 444
+[Step 67] Loss: 2.3380, Contribution Variance: 22.808710
+
+Length of current word dictionary: 445
+[Step 68] Loss: 2.3380, Contribution Variance: 22.808710
+
+Length of current word dictionary: 449
+[Step 69] Loss: 2.3380, Contribution Variance: 22.808710
+
+Length of current word dictionary: 451
+[Step 70] Loss: 2.3380, Contribution Variance: 22.808710
+
+[Step 71] Loss: 2.3380, Contribution Variance: 22.808710
+
+Length of current word dictionary: 452
+[Step 72] Loss: 2.3380, Contribution Variance: 22.808710
+
+Length of current word dictionary: 453
+[Step 73] Loss: 2.3380, Contribution Variance: 22.808710
+
+Length of current word dictionary: 455
+[Step 74] Loss: 2.3380, Contribution Variance: 22.808710
+
+Length of current word dictionary: 457
+[Step 75] Loss: 2.3380, Contribution Variance: 22.808710
+
+[Step 76] Loss: 2.3380, Contribution Variance: 22.808710
+
+Length of current word dictionary: 458
+[Step 77] Loss: 2.3380, Contribution Variance: 22.808710
+
+Length of current word dictionary: 459
+[Step 78] Loss: 2.3380, Contribution Variance: 22.808710
+
+Length of current word dictionary: 461
+[Step 79] Loss: 2.3380, Contribution Variance: 22.808710
+
+Length of current word dictionary: 462
+[Step 80] Loss: 2.3380, Contribution Variance: 22.808710
+
+[Step 81] Loss: 2.3361, Contribution Variance: 22.486883
+
+Length of current word dictionary: 462
+[Step 82] Loss: 2.3361, Contribution Variance: 22.486883
+
+Length of current word dictionary: 464
+[Step 83] Loss: 2.3361, Contribution Variance: 22.486883
+
+Length of current word dictionary: 465
+[Step 84] Loss: 2.3361, Contribution Variance: 22.486883
+
+Length of current word dictionary: 466
+[Step 85] Loss: 2.3361, Contribution Variance: 22.486883
+
+[Step 86] Loss: 2.3361, Contribution Variance: 22.486883
+
+Length of current word dictionary: 468
+[Step 87] Loss: 2.3361, Contribution Variance: 22.486883
+
+Length of current word dictionary: 468
+[Step 88] Loss: 2.3361, Contribution Variance: 22.486883
+
+Length of current word dictionary: 470
+[Step 89] Loss: 2.3361, Contribution Variance: 22.486883
+
+Length of current word dictionary: 471
+[Step 90] Loss: 2.3361, Contribution Variance: 22.486883
+
+[Step 91] Loss: 2.3361, Contribution Variance: 22.486883
+
+Length of current word dictionary: 472
+[Step 92] Loss: 2.3361, Contribution Variance: 22.486883
+
+Length of current word dictionary: 472
+[Step 93] Loss: 2.3361, Contribution Variance: 22.486883
+
+Length of current word dictionary: 474
+[Step 94] Loss: 2.3361, Contribution Variance: 22.486883
+
+Length of current word dictionary: 474
+[Step 95] Loss: 2.3361, Contribution Variance: 22.486883
+
+[Step 96] Loss: 2.3361, Contribution Variance: 22.486883
+
+Length of current word dictionary: 476
+[Step 97] Loss: 2.3361, Contribution Variance: 22.486883
+
+Length of current word dictionary: 477
+[Step 98] Loss: 2.3361, Contribution Variance: 22.486883
+
+Length of current word dictionary: 478
+[Step 99] Loss: 2.3361, Contribution Variance: 22.486883
+
+Length of current word dictionary: 479
+Optimization Finished
+Time taken: 34609.9621 seconds
+Best Loss 2.3360767364501953
+############# Target Question: 51 #############
+Question: where is the citrus bowl held this year
+
+[Step 0] Loss: 19.0698, Contribution Variance: 190.118378
+
+[Step 1] Loss: 19.0698, Contribution Variance: 190.118378
+
+Length of current word dictionary: 23
+[Step 2] Loss: 17.8806, Contribution Variance: 177.240295
+
+Length of current word dictionary: 37
+[Step 3] Loss: 17.8806, Contribution Variance: 177.240295
+
+Length of current word dictionary: 42
+[Step 4] Loss: 17.8806, Contribution Variance: 177.240295
+
+Length of current word dictionary: 47
+[Step 5] Loss: 17.8806, Contribution Variance: 177.240295
+
+[Step 6] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 48
+[Step 7] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 48
+[Step 8] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 48
+[Step 9] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 48
+[Step 10] Loss: 17.7649, Contribution Variance: 176.805649
+
+[Step 11] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 48
+[Step 12] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 48
+[Step 13] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 48
+[Step 14] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 48
+[Step 15] Loss: 17.7649, Contribution Variance: 176.805649
+
+[Step 16] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 48
+[Step 17] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 48
+[Step 18] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 49
+[Step 19] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 49
+[Step 20] Loss: 17.7649, Contribution Variance: 176.805649
+
+[Step 21] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 49
+[Step 22] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 49
+[Step 23] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 49
+[Step 24] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 49
+[Step 25] Loss: 17.7649, Contribution Variance: 176.805649
+
+[Step 26] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 49
+[Step 27] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 50
+[Step 28] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 50
+[Step 29] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 51
+[Step 30] Loss: 17.7649, Contribution Variance: 176.805649
+
+[Step 31] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 51
+[Step 32] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 53
+[Step 33] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 54
+[Step 34] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 56
+[Step 35] Loss: 17.7649, Contribution Variance: 176.805649
+
+[Step 36] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 56
+[Step 37] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 56
+[Step 38] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 56
+[Step 39] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 57
+[Step 40] Loss: 17.7649, Contribution Variance: 176.805649
+
+[Step 41] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 57
+[Step 42] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 57
+[Step 43] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 57
+[Step 44] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 57
+[Step 45] Loss: 17.7649, Contribution Variance: 176.805649
+
+[Step 46] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 57
+[Step 47] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 57
+[Step 48] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 57
+[Step 49] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 57
+[Step 50] Loss: 17.7649, Contribution Variance: 176.805649
+
+[Step 51] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 57
+[Step 52] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 58
+[Step 53] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 58
+[Step 54] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 58
+[Step 55] Loss: 17.7649, Contribution Variance: 176.805649
+
+[Step 56] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 58
+[Step 57] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 58
+[Step 58] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 58
+[Step 59] Loss: 17.7649, Contribution Variance: 176.805649
+
+Length of current word dictionary: 58
+[Step 60] Loss: 17.7649, Contribution Variance: 176.805649
+
+[Step 61] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 62] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 63] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 64] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 65] Loss: 17.7647, Contribution Variance: 176.846848
+
+[Step 66] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 67] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 68] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 69] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 70] Loss: 17.7647, Contribution Variance: 176.846848
+
+[Step 71] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 72] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 73] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 74] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 75] Loss: 17.7647, Contribution Variance: 176.846848
+
+[Step 76] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 77] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 78] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 79] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 80] Loss: 17.7647, Contribution Variance: 176.846848
+
+[Step 81] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 82] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 83] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 84] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 85] Loss: 17.7647, Contribution Variance: 176.846848
+
+[Step 86] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 87] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 88] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 89] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 90] Loss: 17.7647, Contribution Variance: 176.846848
+
+[Step 91] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 92] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 93] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 94] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 95] Loss: 17.7647, Contribution Variance: 176.846848
+
+[Step 96] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 97] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 98] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+[Step 99] Loss: 17.7647, Contribution Variance: 176.846848
+
+Length of current word dictionary: 58
+Optimization Finished
+Time taken: 19156.8113 seconds
+Best Loss 17.764711380004883
+############# Target Question: 62 #############
+Question: when did skiing halfpipe become an olympic event
+
+[Step 0] Loss: 7.7392, Contribution Variance: 77.390755
+
+[Step 1] Loss: 5.2597, Contribution Variance: 52.595470
+
+Length of current word dictionary: 41
+[Step 2] Loss: 5.2597, Contribution Variance: 52.595470
+
+Length of current word dictionary: 72
+[Step 3] Loss: 5.2597, Contribution Variance: 52.595470
+
+Length of current word dictionary: 105
+[Step 4] Loss: 5.2597, Contribution Variance: 52.595470
+
+Length of current word dictionary: 148
+[Step 5] Loss: 5.2597, Contribution Variance: 52.595470
+
+[Step 6] Loss: 4.7216, Contribution Variance: 47.214706
+
+Length of current word dictionary: 182
+[Step 7] Loss: 4.7216, Contribution Variance: 47.214706
+
+Length of current word dictionary: 229
+[Step 8] Loss: 4.7216, Contribution Variance: 47.214706
+
+Length of current word dictionary: 273
+[Step 9] Loss: 4.7216, Contribution Variance: 47.214706
+
+Length of current word dictionary: 317
+[Step 10] Loss: 4.7216, Contribution Variance: 47.214706
+
+[Step 11] Loss: 4.7216, Contribution Variance: 47.214706
+
+Length of current word dictionary: 328
+[Step 12] Loss: 3.4760, Contribution Variance: 33.905479
+
+Length of current word dictionary: 343
+[Step 13] Loss: 3.4760, Contribution Variance: 33.905479
+
+Length of current word dictionary: 359
+[Step 14] Loss: 3.4760, Contribution Variance: 33.905479
+
+Length of current word dictionary: 374
+[Step 15] Loss: 3.4760, Contribution Variance: 33.905479
+
+[Step 16] Loss: 3.4760, Contribution Variance: 33.905479
+
+Length of current word dictionary: 376
+[Step 17] Loss: 3.2083, Contribution Variance: 32.064056
+
+Length of current word dictionary: 379
+[Step 18] Loss: 3.0948, Contribution Variance: 30.919430
+
+Length of current word dictionary: 388
+[Step 19] Loss: 3.0948, Contribution Variance: 30.919430
+
+Length of current word dictionary: 396
+[Step 20] Loss: 3.0948, Contribution Variance: 30.919430
+
+[Step 21] Loss: 3.0948, Contribution Variance: 30.919430
+
+Length of current word dictionary: 401
+[Step 22] Loss: 2.8294, Contribution Variance: 28.193024
+
+Length of current word dictionary: 419
+[Step 23] Loss: 2.4745, Contribution Variance: 24.263311
+
+Length of current word dictionary: 437
+[Step 24] Loss: 2.4745, Contribution Variance: 24.263311
+
+Length of current word dictionary: 453
+[Step 25] Loss: 2.4745, Contribution Variance: 24.263311
+
+[Step 26] Loss: 2.4745, Contribution Variance: 24.263311
+
+Length of current word dictionary: 459
+[Step 27] Loss: 2.4745, Contribution Variance: 24.263311
+
+Length of current word dictionary: 473
+[Step 28] Loss: 2.4745, Contribution Variance: 24.263311
+
+Length of current word dictionary: 485
+[Step 29] Loss: 2.4745, Contribution Variance: 24.263311
+
+Length of current word dictionary: 498
+[Step 30] Loss: 2.4745, Contribution Variance: 24.263311
+
+[Step 31] Loss: 2.4745, Contribution Variance: 24.263311
+
+Length of current word dictionary: 501
+[Step 32] Loss: 2.4745, Contribution Variance: 24.263311
+
+Length of current word dictionary: 506
+[Step 33] Loss: 2.4745, Contribution Variance: 24.263311
+
+Length of current word dictionary: 515
+[Step 34] Loss: 2.4745, Contribution Variance: 24.263311
+
+Length of current word dictionary: 520
+[Step 35] Loss: 2.4745, Contribution Variance: 24.263311
+
+[Step 36] Loss: 2.4453, Contribution Variance: 23.992153
+
+Length of current word dictionary: 522
+[Step 37] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 528
+[Step 38] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 534
+[Step 39] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 539
+[Step 40] Loss: 2.4270, Contribution Variance: 23.787460
+
+[Step 41] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 540
+[Step 42] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 544
+[Step 43] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 547
+[Step 44] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 549
+[Step 45] Loss: 2.4270, Contribution Variance: 23.787460
+
+[Step 46] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 551
+[Step 47] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 554
+[Step 48] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 558
+[Step 49] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 560
+[Step 50] Loss: 2.4270, Contribution Variance: 23.787460
+
+[Step 51] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 563
+[Step 52] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 564
+[Step 53] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 565
+[Step 54] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 568
+[Step 55] Loss: 2.4270, Contribution Variance: 23.787460
+
+[Step 56] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 568
+[Step 57] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 568
+[Step 58] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 568
+[Step 59] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 569
+[Step 60] Loss: 2.4270, Contribution Variance: 23.787460
+
+[Step 61] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 570
+[Step 62] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 572
+[Step 63] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 573
+[Step 64] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 574
+[Step 65] Loss: 2.4270, Contribution Variance: 23.787460
+
+[Step 66] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 575
+[Step 67] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 575
+[Step 68] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 575
+[Step 69] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+[Step 70] Loss: 2.4270, Contribution Variance: 23.787460
+
+[Step 71] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+[Step 72] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+[Step 73] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+[Step 74] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+[Step 75] Loss: 2.4270, Contribution Variance: 23.787460
+
+[Step 76] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+[Step 77] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+[Step 78] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+[Step 79] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+[Step 80] Loss: 2.4270, Contribution Variance: 23.787460
+
+[Step 81] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+[Step 82] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+[Step 83] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+[Step 84] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+[Step 85] Loss: 2.4270, Contribution Variance: 23.787460
+
+[Step 86] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+[Step 87] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+[Step 88] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+[Step 89] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+[Step 90] Loss: 2.4270, Contribution Variance: 23.787460
+
+[Step 91] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+[Step 92] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+[Step 93] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+[Step 94] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+[Step 95] Loss: 2.4270, Contribution Variance: 23.787460
+
+[Step 96] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+[Step 97] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+[Step 98] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+[Step 99] Loss: 2.4270, Contribution Variance: 23.787460
+
+Length of current word dictionary: 576
+Optimization Finished
+Time taken: 15692.9387 seconds
+Best Loss 2.4269871711730957
+############# Target Question: 63 #############
+Question: state with highest population growth rate in india 2011
+
+[Step 0] Loss: 3.7804, Contribution Variance: 35.710865
+
+[Step 1] Loss: 3.7804, Contribution Variance: 35.710865
+
+Length of current word dictionary: 25
+[Step 2] Loss: 3.6497, Contribution Variance: 34.622814
+
+Length of current word dictionary: 28
+[Step 3] Loss: 3.4616, Contribution Variance: 32.720459
+
+Length of current word dictionary: 36
+[Step 4] Loss: 3.4616, Contribution Variance: 32.720459
+
+Length of current word dictionary: 36
+[Step 5] Loss: 3.4616, Contribution Variance: 32.720459
+
+[Step 6] Loss: 3.4616, Contribution Variance: 32.720459
+
+Length of current word dictionary: 36
+[Step 7] Loss: 3.4616, Contribution Variance: 32.720459
+
+Length of current word dictionary: 36
+[Step 8] Loss: 3.4616, Contribution Variance: 32.720459
+
+Length of current word dictionary: 36
+[Step 9] Loss: 3.4616, Contribution Variance: 32.720459
+
+Length of current word dictionary: 36
+[Step 10] Loss: 3.4475, Contribution Variance: 32.179405
+
+[Step 11] Loss: 3.4475, Contribution Variance: 32.179405
+
+Length of current word dictionary: 36
+[Step 12] Loss: 3.4475, Contribution Variance: 32.179405
+
+Length of current word dictionary: 36
+[Step 13] Loss: 3.4475, Contribution Variance: 32.179405
+
+Length of current word dictionary: 36
+[Step 14] Loss: 3.4243, Contribution Variance: 32.029217
+
+Length of current word dictionary: 36
+[Step 15] Loss: 3.4243, Contribution Variance: 32.029217
+
+[Step 16] Loss: 3.4243, Contribution Variance: 32.029217
+
+Length of current word dictionary: 36
+[Step 17] Loss: 3.4243, Contribution Variance: 32.029217
+
+Length of current word dictionary: 36
+[Step 18] Loss: 3.4243, Contribution Variance: 32.029217
+
+Length of current word dictionary: 36
+[Step 19] Loss: 3.4243, Contribution Variance: 32.029217
+
+Length of current word dictionary: 36
+[Step 20] Loss: 3.4243, Contribution Variance: 32.029217
+
+[Step 21] Loss: 3.4243, Contribution Variance: 32.029217
+
+Length of current word dictionary: 36
+[Step 22] Loss: 3.4243, Contribution Variance: 32.029217
+
+Length of current word dictionary: 36
+[Step 23] Loss: 3.4243, Contribution Variance: 32.029217
+
+Length of current word dictionary: 36
+[Step 24] Loss: 3.4243, Contribution Variance: 32.029217
+
+Length of current word dictionary: 36
+[Step 25] Loss: 3.4243, Contribution Variance: 32.029217
+
+[Step 26] Loss: 3.4243, Contribution Variance: 32.029217
+
+Length of current word dictionary: 36
+[Step 27] Loss: 3.4243, Contribution Variance: 32.029217
+
+Length of current word dictionary: 36
+[Step 28] Loss: 3.4243, Contribution Variance: 32.029217
+
+Length of current word dictionary: 36
+[Step 29] Loss: 3.4243, Contribution Variance: 32.029217
+
+Length of current word dictionary: 36
+[Step 30] Loss: 3.4243, Contribution Variance: 32.029217
+
+[Step 31] Loss: 3.3552, Contribution Variance: 31.292515
+
+Length of current word dictionary: 36
+[Step 32] Loss: 3.3552, Contribution Variance: 31.292515
+
+Length of current word dictionary: 36
+[Step 33] Loss: 3.3552, Contribution Variance: 31.292515
+
+Length of current word dictionary: 36
+[Step 34] Loss: 3.3552, Contribution Variance: 31.292515
+
+Length of current word dictionary: 36
+[Step 35] Loss: 3.3552, Contribution Variance: 31.292515
+
+[Step 36] Loss: 3.3552, Contribution Variance: 31.292515
+
+Length of current word dictionary: 36
+[Step 37] Loss: 3.3552, Contribution Variance: 31.292515
+
+Length of current word dictionary: 36
+[Step 38] Loss: 3.3552, Contribution Variance: 31.292515
+
+Length of current word dictionary: 36
+[Step 39] Loss: 3.1919, Contribution Variance: 30.146412
+
+Length of current word dictionary: 36
+[Step 40] Loss: 3.1919, Contribution Variance: 30.146412
+
+[Step 41] Loss: 3.1919, Contribution Variance: 30.146412
+
+Length of current word dictionary: 36
+[Step 42] Loss: 3.1919, Contribution Variance: 30.146412
+
+Length of current word dictionary: 36
+[Step 43] Loss: 3.1919, Contribution Variance: 30.146412
+
+Length of current word dictionary: 36
+[Step 44] Loss: 3.1919, Contribution Variance: 30.146412
+
+Length of current word dictionary: 36
+[Step 45] Loss: 3.1919, Contribution Variance: 30.146412
+
+[Step 46] Loss: 3.1919, Contribution Variance: 30.146412
+
+Length of current word dictionary: 36
+[Step 47] Loss: 3.1919, Contribution Variance: 30.146412
+
+Length of current word dictionary: 36
+[Step 48] Loss: 3.1919, Contribution Variance: 30.146412
+
+Length of current word dictionary: 36
+[Step 49] Loss: 3.1919, Contribution Variance: 30.146412
+
+Length of current word dictionary: 36
+[Step 50] Loss: 3.1919, Contribution Variance: 30.146412
+
+[Step 51] Loss: 3.1403, Contribution Variance: 29.724628
+
+Length of current word dictionary: 36
+[Step 52] Loss: 3.1403, Contribution Variance: 29.724628
+
+Length of current word dictionary: 36
+[Step 53] Loss: 3.1403, Contribution Variance: 29.724628
+
+Length of current word dictionary: 36
+[Step 54] Loss: 3.1403, Contribution Variance: 29.724628
+
+Length of current word dictionary: 36
+[Step 55] Loss: 3.1403, Contribution Variance: 29.724628
+
+[Step 56] Loss: 3.1403, Contribution Variance: 29.724628
+
+Length of current word dictionary: 36
+[Step 57] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 58] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 59] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 60] Loss: 3.1351, Contribution Variance: 29.727509
+
+[Step 61] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 62] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 63] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 64] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 65] Loss: 3.1351, Contribution Variance: 29.727509
+
+[Step 66] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 67] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 68] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 69] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 70] Loss: 3.1351, Contribution Variance: 29.727509
+
+[Step 71] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 72] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 73] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 74] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 75] Loss: 3.1351, Contribution Variance: 29.727509
+
+[Step 76] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 77] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 78] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 79] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 80] Loss: 3.1351, Contribution Variance: 29.727509
+
+[Step 81] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 82] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 83] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 84] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 85] Loss: 3.1351, Contribution Variance: 29.727509
+
+[Step 86] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 87] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 88] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 89] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 90] Loss: 3.1351, Contribution Variance: 29.727509
+
+[Step 91] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 92] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 93] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 94] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 95] Loss: 3.1351, Contribution Variance: 29.727509
+
+[Step 96] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 97] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 98] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+[Step 99] Loss: 3.1351, Contribution Variance: 29.727509
+
+Length of current word dictionary: 36
+Optimization Finished
+Time taken: 19912.4719 seconds
+Best Loss 3.1350722312927246
+############# Target Question: 100 #############
+Question: where did an independence movement occur because of the congress of vienna
+
+[Step 0] Loss: 8.6975, Contribution Variance: 62.542870
+
+[Step 1] Loss: 4.9179, Contribution Variance: 31.480707
+
+Length of current word dictionary: 40
+[Step 2] Loss: 4.3071, Contribution Variance: 29.609518
+
+Length of current word dictionary: 108
+[Step 3] Loss: 4.2597, Contribution Variance: 33.241295
+
+Length of current word dictionary: 177
+[Step 4] Loss: 4.2597, Contribution Variance: 33.241295
+
+Length of current word dictionary: 247
+[Step 5] Loss: 15.1649, Contribution Variance: 144.082809
+
+[Step 6] Loss: 15.1649, Contribution Variance: 144.082809
+
+Length of current word dictionary: 248
+[Step 7] Loss: 14.2322, Contribution Variance: 139.115967
+
+Length of current word dictionary: 265
+[Step 8] Loss: 14.2322, Contribution Variance: 139.115967
+
+Length of current word dictionary: 265
+[Step 9] Loss: 14.2322, Contribution Variance: 139.115967
+
+Length of current word dictionary: 265
+[Step 10] Loss: 14.2322, Contribution Variance: 139.115967
+
+[Step 11] Loss: 14.2322, Contribution Variance: 139.115967
+
+Length of current word dictionary: 265
+[Step 12] Loss: 14.0962, Contribution Variance: 138.131989
+
+Length of current word dictionary: 267
+[Step 13] Loss: 14.0962, Contribution Variance: 138.131989
+
+Length of current word dictionary: 268
+[Step 14] Loss: 14.0962, Contribution Variance: 138.131989
+
+Length of current word dictionary: 268
+[Step 15] Loss: 14.0962, Contribution Variance: 138.131989
+
+[Step 16] Loss: 14.0962, Contribution Variance: 138.131989
+
+Length of current word dictionary: 268
+[Step 17] Loss: 14.0962, Contribution Variance: 138.131989
+
+Length of current word dictionary: 268
+[Step 18] Loss: 14.0962, Contribution Variance: 138.131989
+
+Length of current word dictionary: 268
+[Step 19] Loss: 14.0962, Contribution Variance: 138.131989
+
+Length of current word dictionary: 268
+[Step 20] Loss: 14.0962, Contribution Variance: 138.131989
+
+[Step 21] Loss: 14.0755, Contribution Variance: 138.623810
+
+Length of current word dictionary: 268
+[Step 22] Loss: 14.0755, Contribution Variance: 138.623810
+
+Length of current word dictionary: 268
+[Step 23] Loss: 14.0755, Contribution Variance: 138.623810
+
+Length of current word dictionary: 268
+[Step 24] Loss: 14.0755, Contribution Variance: 138.623810
+
+Length of current word dictionary: 268
+[Step 25] Loss: 14.0755, Contribution Variance: 138.623810
+
+[Step 26] Loss: 13.7511, Contribution Variance: 134.539276
+
+Length of current word dictionary: 268
+[Step 27] Loss: 13.7511, Contribution Variance: 134.539276
+
+Length of current word dictionary: 268
+[Step 28] Loss: 13.7511, Contribution Variance: 134.539276
+
+Length of current word dictionary: 268
+[Step 29] Loss: 13.7511, Contribution Variance: 134.539276
+
+Length of current word dictionary: 268
+[Step 30] Loss: 13.7511, Contribution Variance: 134.539276
+
+[Step 31] Loss: 13.5739, Contribution Variance: 132.999527
+
+Length of current word dictionary: 268
+[Step 32] Loss: 13.5739, Contribution Variance: 132.999527
+
+Length of current word dictionary: 269
+[Step 33] Loss: 13.5739, Contribution Variance: 132.999527
+
+Length of current word dictionary: 269
+[Step 34] Loss: 13.5739, Contribution Variance: 132.999527
+
+Length of current word dictionary: 269
+[Step 35] Loss: 13.5739, Contribution Variance: 132.999527
+
+[Step 36] Loss: 13.5739, Contribution Variance: 132.999527
+
+Length of current word dictionary: 269
+[Step 37] Loss: 13.5739, Contribution Variance: 132.999527
+
+Length of current word dictionary: 269
+[Step 38] Loss: 13.5739, Contribution Variance: 132.999527
+
+Length of current word dictionary: 269
+[Step 39] Loss: 13.5739, Contribution Variance: 132.999527
+
+Length of current word dictionary: 269
+[Step 40] Loss: 13.5739, Contribution Variance: 132.999527
+
+[Step 41] Loss: 13.1733, Contribution Variance: 127.209457
+
+Length of current word dictionary: 269
+[Step 42] Loss: 13.1733, Contribution Variance: 127.209457
+
+Length of current word dictionary: 269
+[Step 43] Loss: 13.1733, Contribution Variance: 127.209457
+
+Length of current word dictionary: 269
+[Step 44] Loss: 13.1733, Contribution Variance: 127.209457
+
+Length of current word dictionary: 269
+[Step 45] Loss: 13.1733, Contribution Variance: 127.209457
+
+[Step 46] Loss: 13.1733, Contribution Variance: 127.209457
+
+Length of current word dictionary: 269
+[Step 47] Loss: 13.1733, Contribution Variance: 127.209457
+
+Length of current word dictionary: 269
+[Step 48] Loss: 13.1733, Contribution Variance: 127.209457
+
+Length of current word dictionary: 269
+[Step 49] Loss: 13.1733, Contribution Variance: 127.209457
+
+Length of current word dictionary: 269
+[Step 50] Loss: 13.1733, Contribution Variance: 127.209457
+
+[Step 51] Loss: 12.9623, Contribution Variance: 125.881332
+
+Length of current word dictionary: 269
+[Step 52] Loss: 12.9623, Contribution Variance: 125.881332
+
+Length of current word dictionary: 269
+[Step 53] Loss: 12.9623, Contribution Variance: 125.881332
+
+Length of current word dictionary: 269
+[Step 54] Loss: 12.9623, Contribution Variance: 125.881332
+
+Length of current word dictionary: 269
+[Step 55] Loss: 12.9623, Contribution Variance: 125.881332
+
+[Step 56] Loss: 12.9623, Contribution Variance: 125.881332
+
+Length of current word dictionary: 269
+[Step 57] Loss: 12.9623, Contribution Variance: 125.881332
+
+Length of current word dictionary: 269
+[Step 58] Loss: 12.9623, Contribution Variance: 125.881332
+
+Length of current word dictionary: 269
+[Step 59] Loss: 12.9623, Contribution Variance: 125.881332
+
+Length of current word dictionary: 269
+[Step 60] Loss: 12.9623, Contribution Variance: 125.881332
+
+[Step 61] Loss: 12.9623, Contribution Variance: 125.881332
+
+Length of current word dictionary: 269
+[Step 62] Loss: 12.9623, Contribution Variance: 125.881332
+
+Length of current word dictionary: 269
+[Step 63] Loss: 12.9623, Contribution Variance: 125.881332
+
+Length of current word dictionary: 269
+[Step 64] Loss: 12.9623, Contribution Variance: 125.881332
+
+Length of current word dictionary: 269
+[Step 65] Loss: 12.9623, Contribution Variance: 125.881332
+
+[Step 66] Loss: 12.9623, Contribution Variance: 125.881332
+
+Length of current word dictionary: 269
+[Step 67] Loss: 12.9623, Contribution Variance: 125.881332
+
+Length of current word dictionary: 269
+[Step 68] Loss: 12.9623, Contribution Variance: 125.881332
+
+Length of current word dictionary: 269
+[Step 69] Loss: 12.9623, Contribution Variance: 125.881332
+
+Length of current word dictionary: 269
+[Step 70] Loss: 12.8319, Contribution Variance: 125.160316
+
+[Step 71] Loss: 12.8319, Contribution Variance: 125.160316
+
+Length of current word dictionary: 269
+[Step 72] Loss: 12.8319, Contribution Variance: 125.160316
+
+Length of current word dictionary: 269
+[Step 73] Loss: 12.8319, Contribution Variance: 125.160316
+
+Length of current word dictionary: 269
+[Step 74] Loss: 12.8319, Contribution Variance: 125.160316
+
+Length of current word dictionary: 269
+[Step 75] Loss: 12.8319, Contribution Variance: 125.160316
+
+[Step 76] Loss: 12.8319, Contribution Variance: 125.160316
+
+Length of current word dictionary: 269
+[Step 77] Loss: 12.8319, Contribution Variance: 125.160316
+
+Length of current word dictionary: 269
+[Step 78] Loss: 12.8319, Contribution Variance: 125.160316
+
+Length of current word dictionary: 269
+[Step 79] Loss: 12.8319, Contribution Variance: 125.160316
+
+Length of current word dictionary: 269
+[Step 80] Loss: 12.8319, Contribution Variance: 125.160316
+
+[Step 81] Loss: 12.8319, Contribution Variance: 125.160316
+
+Length of current word dictionary: 269
+[Step 82] Loss: 12.8319, Contribution Variance: 125.160316
+
+Length of current word dictionary: 269
+[Step 83] Loss: 12.8319, Contribution Variance: 125.160316
+
+Length of current word dictionary: 269
+[Step 84] Loss: 12.8319, Contribution Variance: 125.160316
+
+Length of current word dictionary: 269
+[Step 85] Loss: 12.8319, Contribution Variance: 125.160316
+
+[Step 86] Loss: 12.8319, Contribution Variance: 125.160316
+
+Length of current word dictionary: 269
+[Step 87] Loss: 12.8319, Contribution Variance: 125.160316
+
+Length of current word dictionary: 269
+[Step 88] Loss: 12.8319, Contribution Variance: 125.160316
+
+Length of current word dictionary: 269
+[Step 89] Loss: 12.8319, Contribution Variance: 125.160316
+
+Length of current word dictionary: 269
+[Step 90] Loss: 12.8319, Contribution Variance: 125.160316
+
+[Step 91] Loss: 12.8319, Contribution Variance: 125.160316
+
+Length of current word dictionary: 269
+[Step 92] Loss: 12.8319, Contribution Variance: 125.160316
+
+Length of current word dictionary: 269
+[Step 93] Loss: 12.8319, Contribution Variance: 125.160316
+
+Length of current word dictionary: 269
+[Step 94] Loss: 12.8319, Contribution Variance: 125.160316
+
+Length of current word dictionary: 269
+[Step 95] Loss: 12.8319, Contribution Variance: 125.160316
+
+[Step 96] Loss: 12.8319, Contribution Variance: 125.160316
+
+Length of current word dictionary: 269
+[Step 97] Loss: 12.8319, Contribution Variance: 125.160316
+
+Length of current word dictionary: 269
+[Step 98] Loss: 12.8319, Contribution Variance: 125.160316
+
+Length of current word dictionary: 269
+[Step 99] Loss: 12.8319, Contribution Variance: 125.160316
+
+Length of current word dictionary: 269
+Optimization Finished
+Time taken: 16008.7860 seconds
+Best Loss 4.259714603424072
+############# Target Question: 20 #############
+Question: how much money did the film titanic make
+
+[Step 0] Loss: 10.4420, Contribution Variance: 13.764032
+
+[Step 0] Successfully evaded filtering
+Optimization Finished
+Time taken: 261.1361 seconds
+Best Loss 10.442012786865234
+
+############# Target Question: 25 #############
+Question: when is dancing on ice on the tv
+
+[Step 0] Loss: 11.9156, Contribution Variance: 16.858406
+
+[Step 0] Successfully evaded filtering
+Optimization Finished
+Time taken: 276.9600 seconds
+Best Loss 11.91563892364502
+############# Target Question: 97 #############
+Question: where does water come from in new york city
+
+[Step 0] Loss: 17.4238, Contribution Variance: 9.248100
+
+[Step 0] Successfully evaded filtering
+Optimization Finished
+Time taken: 176.4124 seconds
+Best Loss 17.423795700073242
+############# Target Question: 55 #############
+Question: the golden age of india took place during the rule of the
+
+[Step 0] Loss: 24.9501, Contribution Variance: 17.768681
+
+[Step 0] Successfully evaded filtering
+Optimization Finished
+Time taken: 164.6242 seconds
+Best Loss 24.950090408325195
+############# Target Question: 48 #############
+Question: where does the show the path take place
+
+[Step 0] Loss: 22.6888, Contribution Variance: 17.134441
+
+[Step 0] Successfully evaded filtering
+Optimization Finished
+Time taken: 175.2661 seconds
+Best Loss 22.68875503540039
+############# Target Question: 60 #############
+Question: what is the name of the compound p4010
+
+[Step 0] Loss: 22.5585, Contribution Variance: 19.085064
+
+[Step 0] Successfully evaded filtering
+Optimization Finished
+Time taken: 203.2392 seconds
+Best Loss 22.558488845825195
+############# Target Question: 71 #############
+Question: who is the girl in the stone sour video say you'll haunt me
+
+[Step 0] Loss: 22.2276, Contribution Variance: 63.804424
+
+[Step 1] Loss: 22.1886, Contribution Variance: 62.178825
+
+Length of current word dictionary: 28
+[Step 2] Loss: 25.8896, Contribution Variance: 256.496765
+
+Length of current word dictionary: 96
+[Step 3] Loss: 25.8896, Contribution Variance: 256.496765
+
+Length of current word dictionary: 96
+[Step 4] Loss: 25.8896, Contribution Variance: 256.496765
+
+Length of current word dictionary: 96
+[Step 5] Loss: 25.8896, Contribution Variance: 256.496765
+
+[Step 6] Loss: 25.8524, Contribution Variance: 256.152771
+
+Length of current word dictionary: 96
+[Step 7] Loss: 25.8524, Contribution Variance: 256.152771
+
+Length of current word dictionary: 96
+[Step 8] Loss: 25.6472, Contribution Variance: 254.853607
+
+Length of current word dictionary: 96
+[Step 9] Loss: 25.6472, Contribution Variance: 254.853607
+
+Length of current word dictionary: 96
+[Step 10] Loss: 25.6472, Contribution Variance: 254.853607
+
+[Step 11] Loss: 25.6472, Contribution Variance: 254.853607
+
+Length of current word dictionary: 96
+[Step 12] Loss: 25.6472, Contribution Variance: 254.853607
+
+Length of current word dictionary: 96
+[Step 13] Loss: 25.6472, Contribution Variance: 254.853607
+
+Length of current word dictionary: 97
+[Step 14] Loss: 25.6472, Contribution Variance: 254.853607
+
+Length of current word dictionary: 97
+[Step 15] Loss: 25.6472, Contribution Variance: 254.853607
+
+[Step 16] Loss: 25.6472, Contribution Variance: 254.853607
+
+Length of current word dictionary: 97
+[Step 17] Loss: 25.6472, Contribution Variance: 254.853607
+
+Length of current word dictionary: 97
+[Step 18] Loss: 25.6472, Contribution Variance: 254.853607
+
+Length of current word dictionary: 97
+[Step 19] Loss: 25.6472, Contribution Variance: 254.853607
+
+Length of current word dictionary: 97
+[Step 20] Loss: 25.6472, Contribution Variance: 254.853607
+
+[Step 21] Loss: 25.5474, Contribution Variance: 253.026459
+
+Length of current word dictionary: 97
+[Step 22] Loss: 25.5474, Contribution Variance: 253.026459
+
+Length of current word dictionary: 97
+[Step 23] Loss: 25.5474, Contribution Variance: 253.026459
+
+Length of current word dictionary: 97
+[Step 24] Loss: 25.5474, Contribution Variance: 253.026459
+
+Length of current word dictionary: 97
+[Step 25] Loss: 25.5474, Contribution Variance: 253.026459
+
+[Step 26] Loss: 25.4956, Contribution Variance: 253.067352
+
+Length of current word dictionary: 97
+[Step 27] Loss: 25.4956, Contribution Variance: 253.067352
+
+Length of current word dictionary: 97
+[Step 28] Loss: 25.4956, Contribution Variance: 253.067352
+
+Length of current word dictionary: 97
+[Step 29] Loss: 25.4956, Contribution Variance: 253.067352
+
+Length of current word dictionary: 97
+[Step 30] Loss: 25.4956, Contribution Variance: 253.067352
+
+[Step 31] Loss: 25.4956, Contribution Variance: 253.067352
+
+Length of current word dictionary: 97
+[Step 32] Loss: 25.4956, Contribution Variance: 253.067352
+
+Length of current word dictionary: 97
+[Step 33] Loss: 25.4956, Contribution Variance: 253.067352
+
+Length of current word dictionary: 97
+[Step 34] Loss: 25.4956, Contribution Variance: 253.067352
+
+Length of current word dictionary: 97
+[Step 35] Loss: 25.4956, Contribution Variance: 253.067352
+
+[Step 36] Loss: 25.4646, Contribution Variance: 252.264313
+
+Length of current word dictionary: 97
+[Step 37] Loss: 25.4646, Contribution Variance: 252.264313
+
+Length of current word dictionary: 97
+[Step 38] Loss: 25.4646, Contribution Variance: 252.264313
+
+Length of current word dictionary: 97
+[Step 39] Loss: 25.4646, Contribution Variance: 252.264313
+
+Length of current word dictionary: 97
+[Step 40] Loss: 25.4646, Contribution Variance: 252.264313
+
+[Step 41] Loss: 25.3122, Contribution Variance: 251.180130
+
+Length of current word dictionary: 97
+[Step 42] Loss: 25.3122, Contribution Variance: 251.180130
+
+Length of current word dictionary: 97
+[Step 43] Loss: 25.3122, Contribution Variance: 251.180130
+
+Length of current word dictionary: 97
+[Step 44] Loss: 25.3122, Contribution Variance: 251.180130
+
+Length of current word dictionary: 97
+[Step 45] Loss: 25.3122, Contribution Variance: 251.180130
+
+[Step 46] Loss: 25.3122, Contribution Variance: 251.180130
+
+Length of current word dictionary: 97
+[Step 47] Loss: 25.3122, Contribution Variance: 251.180130
+
+Length of current word dictionary: 97
+[Step 48] Loss: 25.3122, Contribution Variance: 251.180130
+
+Length of current word dictionary: 97
+[Step 49] Loss: 25.3122, Contribution Variance: 251.180130
+
+Length of current word dictionary: 97
+[Step 50] Loss: 25.3122, Contribution Variance: 251.180130
+
+[Step 51] Loss: 25.3122, Contribution Variance: 251.180130
+
+Length of current word dictionary: 97
+[Step 52] Loss: 25.3122, Contribution Variance: 251.180130
+
+Length of current word dictionary: 97
+[Step 53] Loss: 25.3122, Contribution Variance: 251.180130
+
+Length of current word dictionary: 97
+[Step 54] Loss: 25.3122, Contribution Variance: 251.180130
+
+Length of current word dictionary: 97
+[Step 55] Loss: 25.3122, Contribution Variance: 251.180130
+
+[Step 56] Loss: 25.0728, Contribution Variance: 249.568390
+
+Length of current word dictionary: 97
+[Step 57] Loss: 25.0728, Contribution Variance: 249.568390
+
+Length of current word dictionary: 97
+[Step 58] Loss: 25.0728, Contribution Variance: 249.568390
+
+Length of current word dictionary: 97
+[Step 59] Loss: 25.0728, Contribution Variance: 249.568390
+
+Length of current word dictionary: 97
+[Step 60] Loss: 25.0728, Contribution Variance: 249.568390
+
+[Step 61] Loss: 24.9114, Contribution Variance: 247.922195
+
+Length of current word dictionary: 97
+[Step 62] Loss: 24.9114, Contribution Variance: 247.922195
+
+Length of current word dictionary: 97
+[Step 63] Loss: 24.9114, Contribution Variance: 247.922195
+
+Length of current word dictionary: 97
+[Step 64] Loss: 24.9114, Contribution Variance: 247.922195
+
+Length of current word dictionary: 97
+[Step 65] Loss: 24.9114, Contribution Variance: 247.922195
+
+[Step 66] Loss: 24.9114, Contribution Variance: 247.922195
+
+Length of current word dictionary: 97
+[Step 67] Loss: 24.9114, Contribution Variance: 247.922195
+
+Length of current word dictionary: 97
+[Step 68] Loss: 24.9114, Contribution Variance: 247.922195
+
+Length of current word dictionary: 97
+[Step 69] Loss: 24.9114, Contribution Variance: 247.922195
+
+Length of current word dictionary: 97
+[Step 70] Loss: 24.9114, Contribution Variance: 247.922195
+
+[Step 71] Loss: 24.9114, Contribution Variance: 247.922195
+
+Length of current word dictionary: 97
+[Step 72] Loss: 24.6371, Contribution Variance: 244.381912
+
+Length of current word dictionary: 97
+[Step 73] Loss: 24.6371, Contribution Variance: 244.381912
+
+Length of current word dictionary: 97
+[Step 74] Loss: 24.6371, Contribution Variance: 244.381912
+
+Length of current word dictionary: 97
+[Step 75] Loss: 24.6371, Contribution Variance: 244.381912
+
+[Step 76] Loss: 24.6371, Contribution Variance: 244.381912
+
+Length of current word dictionary: 97
+[Step 77] Loss: 24.6371, Contribution Variance: 244.381912
+
+Length of current word dictionary: 97
+[Step 78] Loss: 24.6371, Contribution Variance: 244.381912
+
+Length of current word dictionary: 97
+[Step 79] Loss: 24.6371, Contribution Variance: 244.381912
+
+Length of current word dictionary: 97
+[Step 80] Loss: 24.6371, Contribution Variance: 244.381912
+
+[Step 81] Loss: 24.3250, Contribution Variance: 241.991379
+
+Length of current word dictionary: 97
+[Step 82] Loss: 24.3250, Contribution Variance: 241.991379
+
+Length of current word dictionary: 97
+[Step 83] Loss: 24.3250, Contribution Variance: 241.991379
+
+Length of current word dictionary: 97
+[Step 84] Loss: 24.3250, Contribution Variance: 241.991379
+
+Length of current word dictionary: 97
+[Step 85] Loss: 24.2636, Contribution Variance: 241.644257
+
+[Step 86] Loss: 24.2636, Contribution Variance: 241.644257
+
+Length of current word dictionary: 97
+[Step 87] Loss: 24.2636, Contribution Variance: 241.644257
+
+Length of current word dictionary: 97
+[Step 88] Loss: 24.2636, Contribution Variance: 241.644257
+
+Length of current word dictionary: 97
+[Step 89] Loss: 24.2636, Contribution Variance: 241.644257
+
+Length of current word dictionary: 97
+[Step 90] Loss: 24.2636, Contribution Variance: 241.644257
+
+[Step 91] Loss: 24.2636, Contribution Variance: 241.644257
+
+Length of current word dictionary: 97
+[Step 92] Loss: 24.2636, Contribution Variance: 241.644257
+
+Length of current word dictionary: 97
+[Step 93] Loss: 24.2636, Contribution Variance: 241.644257
+
+Length of current word dictionary: 97
+[Step 94] Loss: 24.2636, Contribution Variance: 241.644257
+
+Length of current word dictionary: 97
+[Step 95] Loss: 24.2636, Contribution Variance: 241.644257
+
+[Step 96] Loss: 24.2413, Contribution Variance: 241.278107
+
+Length of current word dictionary: 97
+[Step 97] Loss: 24.2413, Contribution Variance: 241.278107
+
+Length of current word dictionary: 97
+[Step 98] Loss: 24.2413, Contribution Variance: 241.278107
+
+Length of current word dictionary: 97
+[Step 99] Loss: 24.2413, Contribution Variance: 241.278107
+
+Length of current word dictionary: 97
+Optimization Finished
+Time taken: 16428.9940 seconds
+Best Loss 22.18859100341797
+############# Target Question: 16 #############
+Question: where is the white castle that harold and kumar go to
+
+[Step 0] Loss: 10.9567, Contribution Variance: 104.251175
+
+[Step 1] Loss: 10.9567, Contribution Variance: 104.251175
+
+Length of current word dictionary: 26
+[Step 2] Loss: 10.9567, Contribution Variance: 104.251175
+
+Length of current word dictionary: 27
+[Step 3] Loss: 10.9567, Contribution Variance: 104.251175
+
+Length of current word dictionary: 27
+[Step 4] Loss: 10.9567, Contribution Variance: 104.251175
+
+Length of current word dictionary: 27
+[Step 5] Loss: 10.9567, Contribution Variance: 104.251175
+
+[Step 6] Loss: 10.9567, Contribution Variance: 104.251175
+
+Length of current word dictionary: 30
+[Step 7] Loss: 10.4791, Contribution Variance: 99.303795
+
+Length of current word dictionary: 30
+[Step 8] Loss: 10.4791, Contribution Variance: 99.303795
+
+Length of current word dictionary: 30
+[Step 9] Loss: 10.4791, Contribution Variance: 99.303795
+
+Length of current word dictionary: 30
+[Step 10] Loss: 10.2395, Contribution Variance: 97.207649
+
+[Step 11] Loss: 10.2395, Contribution Variance: 97.207649
+
+Length of current word dictionary: 30
+[Step 12] Loss: 10.2395, Contribution Variance: 97.207649
+
+Length of current word dictionary: 30
+[Step 13] Loss: 10.2395, Contribution Variance: 97.207649
+
+Length of current word dictionary: 30
+[Step 14] Loss: 10.2395, Contribution Variance: 97.207649
+
+Length of current word dictionary: 30
+[Step 15] Loss: 10.2395, Contribution Variance: 97.207649
+
+[Step 16] Loss: 10.2395, Contribution Variance: 97.207649
+
+Length of current word dictionary: 30
+[Step 17] Loss: 10.2395, Contribution Variance: 97.207649
+
+Length of current word dictionary: 30
+[Step 18] Loss: 10.2395, Contribution Variance: 97.207649
+
+Length of current word dictionary: 30
+[Step 19] Loss: 10.2395, Contribution Variance: 97.207649
+
+Length of current word dictionary: 30
+[Step 20] Loss: 10.2395, Contribution Variance: 97.207649
+
+[Step 21] Loss: 10.2395, Contribution Variance: 97.207649
+
+Length of current word dictionary: 30
+[Step 22] Loss: 10.2395, Contribution Variance: 97.207649
+
+Length of current word dictionary: 30
+[Step 23] Loss: 10.2395, Contribution Variance: 97.207649
+
+Length of current word dictionary: 30
+[Step 24] Loss: 10.2395, Contribution Variance: 97.207649
+
+Length of current word dictionary: 30
+[Step 25] Loss: 10.2395, Contribution Variance: 97.207649
+
+[Step 26] Loss: 10.2395, Contribution Variance: 97.207649
+
+Length of current word dictionary: 30
+[Step 27] Loss: 10.2395, Contribution Variance: 97.207649
+
+Length of current word dictionary: 30
+[Step 28] Loss: 10.2395, Contribution Variance: 97.207649
+
+Length of current word dictionary: 30
+[Step 29] Loss: 10.2395, Contribution Variance: 97.207649
+
+Length of current word dictionary: 30
+[Step 30] Loss: 10.2395, Contribution Variance: 97.207649
+
+[Step 31] Loss: 10.1875, Contribution Variance: 97.220779
+
+Length of current word dictionary: 30
+[Step 32] Loss: 10.1875, Contribution Variance: 97.220779
+
+Length of current word dictionary: 30
+[Step 33] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 34] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 35] Loss: 10.1526, Contribution Variance: 96.645279
+
+[Step 36] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 37] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 38] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 39] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 40] Loss: 10.1526, Contribution Variance: 96.645279
+
+[Step 41] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 42] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 43] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 44] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 45] Loss: 10.1526, Contribution Variance: 96.645279
+
+[Step 46] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 47] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 48] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 49] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 50] Loss: 10.1526, Contribution Variance: 96.645279
+
+[Step 51] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 52] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 53] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 54] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 55] Loss: 10.1526, Contribution Variance: 96.645279
+
+[Step 56] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 57] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 58] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 59] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 60] Loss: 10.1526, Contribution Variance: 96.645279
+
+[Step 61] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 62] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 63] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 64] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 65] Loss: 10.1526, Contribution Variance: 96.645279
+
+[Step 66] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 67] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 68] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 69] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 70] Loss: 10.1526, Contribution Variance: 96.645279
+
+[Step 71] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 72] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 73] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 74] Loss: 10.1526, Contribution Variance: 96.645279
+
+Length of current word dictionary: 30
+[Step 75] Loss: 10.1526, Contribution Variance: 96.645279
+
+[Step 76] Loss: 10.1216, Contribution Variance: 96.296356
+
+Length of current word dictionary: 30
+[Step 77] Loss: 10.1216, Contribution Variance: 96.296356
+
+Length of current word dictionary: 30
+[Step 78] Loss: 10.1216, Contribution Variance: 96.296356
+
+Length of current word dictionary: 30
+[Step 79] Loss: 10.1216, Contribution Variance: 96.296356
+
+Length of current word dictionary: 30
+[Step 80] Loss: 10.1216, Contribution Variance: 96.296356
+
+[Step 81] Loss: 10.1216, Contribution Variance: 96.296356
+
+Length of current word dictionary: 30
+[Step 82] Loss: 10.1216, Contribution Variance: 96.296356
+
+Length of current word dictionary: 30
+[Step 83] Loss: 10.1216, Contribution Variance: 96.296356
+
+Length of current word dictionary: 30
+[Step 84] Loss: 10.1216, Contribution Variance: 96.296356
+
+Length of current word dictionary: 30
+[Step 85] Loss: 10.1216, Contribution Variance: 96.296356
+
+[Step 86] Loss: 10.1184, Contribution Variance: 96.910690
+
+Length of current word dictionary: 30
+[Step 87] Loss: 10.1184, Contribution Variance: 96.910690
+
+Length of current word dictionary: 30
+[Step 88] Loss: 10.1184, Contribution Variance: 96.910690
+
+Length of current word dictionary: 30
+[Step 89] Loss: 10.1184, Contribution Variance: 96.910690
+
+Length of current word dictionary: 30
+[Step 90] Loss: 10.1184, Contribution Variance: 96.910690
+
+[Step 91] Loss: 10.1184, Contribution Variance: 96.910690
+
+Length of current word dictionary: 30
+[Step 92] Loss: 10.1184, Contribution Variance: 96.910690
+
+Length of current word dictionary: 30
+[Step 93] Loss: 10.1184, Contribution Variance: 96.910690
+
+Length of current word dictionary: 30
+[Step 94] Loss: 10.1184, Contribution Variance: 96.910690
+
+Length of current word dictionary: 30
+[Step 95] Loss: 10.1184, Contribution Variance: 96.910690
+
+[Step 96] Loss: 10.1184, Contribution Variance: 96.910690
+
+Length of current word dictionary: 30
+[Step 97] Loss: 10.1184, Contribution Variance: 96.910690
+
+Length of current word dictionary: 30
+[Step 98] Loss: 10.1184, Contribution Variance: 96.910690
+
+Length of current word dictionary: 30
+[Step 99] Loss: 10.1184, Contribution Variance: 96.910690
+
+Length of current word dictionary: 30
+Optimization Finished
+Time taken: 16465.7141 seconds
+Best Loss 10.118431091308594
+############# Target Question: 17 #############
+Question: who sings what the world needs now in boss baby
+
+[Step 0] Loss: 20.1713, Contribution Variance: 7.644361
+
+[Step 0] Successfully evaded filtering
+Optimization Finished
+Time taken: 178.1841 seconds
+Best Loss 20.17130470275879
+############# Target Question: 12 #############
+Question: where was the film coming home for christmas filmed
+
+[Step 0] Loss: 17.5512, Contribution Variance: 10.648790
+
+[Step 0] Successfully evaded filtering
+Optimization Finished
+Time taken: 156.2499 seconds
+Best Loss 17.551233291625977
+############# Target Question: 37 #############
+Question: who is the founder of el pollo loco
+
+[Step 0] Loss: 21.6298, Contribution Variance: 8.743902
+
+[Step 0] Successfully evaded filtering
+Optimization Finished
+Time taken: 184.5863 seconds
+Best Loss 21.62981605529785

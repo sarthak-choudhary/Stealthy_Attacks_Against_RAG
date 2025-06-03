@@ -1,0 +1,2325 @@
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.38s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:01<00:00,  1.18it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:01<00:00,  1.08it/s]
+######################## Iter: 1/1 #######################
+
+############# Target Question: 1 #############
+Question: What percentage of couples are 'sleep divorced', according to new research?
+
+[Step 0] Loss: 16.7597, Contribution Variance: 24.560659
+
+Optimization Finished
+Time taken: 215.5852 seconds
+Best Loss 15.461332321166992
+############# Target Question: 2 #############
+Question: A new study names which country as the worst in the developed world for housing?
+
+[Step 0] Loss: 23.4789, Contribution Variance: 74.404739
+
+[Step 1] Loss: 23.1560, Contribution Variance: 75.173920
+
+[Step 2] Loss: 22.6289, Contribution Variance: 77.367950
+
+[Step 3] Loss: 22.4525, Contribution Variance: 76.946518
+
+[Step 4] Loss: 21.9295, Contribution Variance: 71.559113
+
+[Step 5] Loss: 21.6011, Contribution Variance: 68.653236
+
+[Step 6] Loss: 21.3549, Contribution Variance: 66.332077
+
+[Step 7] Loss: 21.3231, Contribution Variance: 66.358833
+
+[Step 8] Loss: 21.0568, Contribution Variance: 63.719727
+
+[Step 9] Loss: 21.0508, Contribution Variance: 64.964996
+
+[Step 10] Loss: 20.9521, Contribution Variance: 64.571053
+
+[Step 11] Loss: 20.7814, Contribution Variance: 63.791271
+
+[Step 12] Loss: 20.7751, Contribution Variance: 63.342110
+
+[Step 13] Loss: 20.7101, Contribution Variance: 62.388744
+
+[Step 14] Loss: 20.5946, Contribution Variance: 62.231834
+
+[Step 15] Loss: 20.5227, Contribution Variance: 62.347328
+
+[Step 16] Loss: 20.5126, Contribution Variance: 62.773987
+
+[Step 17] Loss: 20.4713, Contribution Variance: 63.682880
+
+[Step 18] Loss: 20.4311, Contribution Variance: 63.487904
+
+[Step 19] Loss: 20.2127, Contribution Variance: 61.092987
+
+[Step 20] Loss: 20.1576, Contribution Variance: 60.854694
+
+[Step 21] Loss: 20.0931, Contribution Variance: 60.566353
+
+[Step 22] Loss: 19.9308, Contribution Variance: 55.318146
+
+[Step 23] Loss: 19.8521, Contribution Variance: 55.263062
+
+[Step 24] Loss: 19.7277, Contribution Variance: 54.847748
+
+[Step 25] Loss: 19.2564, Contribution Variance: 57.108326
+
+[Step 26] Loss: 19.2795, Contribution Variance: 58.588379
+
+[Step 27] Loss: 19.2523, Contribution Variance: 57.737030
+
+[Step 28] Loss: 19.2267, Contribution Variance: 56.986328
+
+[Step 29] Loss: 19.1303, Contribution Variance: 55.972157
+
+[Step 30] Loss: 19.1126, Contribution Variance: 56.292694
+
+[Step 31] Loss: 18.8881, Contribution Variance: 58.791737
+
+[Step 32] Loss: 18.8594, Contribution Variance: 59.593178
+
+[Step 33] Loss: 18.5651, Contribution Variance: 62.838715
+
+[Step 34] Loss: 18.4304, Contribution Variance: 62.854012
+
+[Step 35] Loss: 18.1812, Contribution Variance: 63.183788
+
+[Step 36] Loss: 17.9113, Contribution Variance: 64.558746
+
+[Step 37] Loss: 17.3541, Contribution Variance: 65.450638
+
+[Step 38] Loss: 17.0942, Contribution Variance: 67.017082
+
+[Step 39] Loss: 17.0886, Contribution Variance: 68.023453
+
+[Step 40] Loss: 16.8364, Contribution Variance: 71.864944
+
+[Step 41] Loss: 16.6463, Contribution Variance: 68.492218
+
+[Step 42] Loss: 16.4785, Contribution Variance: 69.608177
+
+[Step 43] Loss: 16.2870, Contribution Variance: 69.857704
+
+[Step 44] Loss: 16.1594, Contribution Variance: 63.081757
+
+[Step 45] Loss: 14.6599, Contribution Variance: 25.036297
+
+Optimization Finished
+Time taken: 4120.1125 seconds
+Best Loss 14.164665222167969
+############# Target Question: 3 #############
+Question: A Rightmove analysis suggests having the "unlucky" number 13 on the front door knocks how much off a property's value?
+
+[Step 0] Loss: 20.7758, Contribution Variance: 75.525703
+
+[Step 1] Loss: 14.4567, Contribution Variance: 42.983772
+
+[Step 2] Loss: 13.7696, Contribution Variance: 35.306633
+
+[Step 3] Loss: 13.2145, Contribution Variance: 30.173660
+
+[Step 4] Loss: 12.9912, Contribution Variance: 27.668482
+
+[Step 5] Loss: 12.6775, Contribution Variance: 26.579342
+
+[Step 6] Loss: 12.4925, Contribution Variance: 24.736496
+
+[Step 7] Loss: 12.3590, Contribution Variance: 25.325455
+
+[Step 8] Loss: 12.2434, Contribution Variance: 25.822666
+
+[Step 9] Loss: 12.1486, Contribution Variance: 26.119892
+
+[Step 10] Loss: 12.0433, Contribution Variance: 24.895845
+
+[Step 11] Loss: 11.9115, Contribution Variance: 24.684246
+
+[Step 12] Loss: 11.8120, Contribution Variance: 24.649082
+
+[Step 13] Loss: 11.7815, Contribution Variance: 24.758270
+
+[Step 14] Loss: 11.7098, Contribution Variance: 24.621710
+
+[Step 15] Loss: 11.6285, Contribution Variance: 24.975798
+
+[Step 16] Loss: 11.4654, Contribution Variance: 24.765846
+
+[Step 17] Loss: 11.3966, Contribution Variance: 24.896410
+
+[Step 18] Loss: 11.2324, Contribution Variance: 25.575802
+
+[Step 19] Loss: 11.1132, Contribution Variance: 25.564251
+
+[Step 20] Loss: 11.0249, Contribution Variance: 25.834019
+
+[Step 21] Loss: 10.9335, Contribution Variance: 26.314152
+
+[Step 22] Loss: 10.8301, Contribution Variance: 25.793346
+
+[Step 23] Loss: 10.7704, Contribution Variance: 26.119732
+
+[Step 24] Loss: 10.7140, Contribution Variance: 25.430660
+
+[Step 25] Loss: 10.6720, Contribution Variance: 25.473541
+
+[Step 26] Loss: 10.6396, Contribution Variance: 25.445061
+
+[Step 27] Loss: 10.5435, Contribution Variance: 26.741430
+
+[Step 28] Loss: 10.3789, Contribution Variance: 26.202448
+
+[Step 29] Loss: 10.2939, Contribution Variance: 26.272976
+
+[Step 30] Loss: 10.2249, Contribution Variance: 26.422007
+
+[Step 31] Loss: 10.0817, Contribution Variance: 26.505814
+
+[Step 32] Loss: 10.0341, Contribution Variance: 26.367533
+
+[Step 33] Loss: 9.9747, Contribution Variance: 25.795889
+
+[Step 34] Loss: 9.9244, Contribution Variance: 25.819300
+
+[Step 35] Loss: 9.8544, Contribution Variance: 25.573814
+
+[Step 36] Loss: 9.8116, Contribution Variance: 25.762375
+
+[Step 37] Loss: 9.7669, Contribution Variance: 25.909662
+
+[Step 38] Loss: 9.7367, Contribution Variance: 25.543215
+
+[Step 39] Loss: 9.6799, Contribution Variance: 25.478798
+
+[Step 40] Loss: 9.6290, Contribution Variance: 25.257099
+
+[Step 41] Loss: 9.5592, Contribution Variance: 25.287056
+
+[Step 42] Loss: 9.5176, Contribution Variance: 25.702963
+
+[Step 43] Loss: 9.5109, Contribution Variance: 25.992382
+
+[Step 44] Loss: 9.4865, Contribution Variance: 26.033604
+
+[Step 45] Loss: 9.4433, Contribution Variance: 26.015598
+
+[Step 46] Loss: 9.4140, Contribution Variance: 25.540800
+
+[Step 47] Loss: 9.3949, Contribution Variance: 25.548771
+
+[Step 48] Loss: 9.3868, Contribution Variance: 25.316139
+
+[Step 49] Loss: 9.3998, Contribution Variance: 25.349815
+
+[Step 50] Loss: 9.3663, Contribution Variance: 25.612097
+
+[Step 51] Loss: 9.3663, Contribution Variance: 25.612097
+
+[Step 52] Loss: 9.3701, Contribution Variance: 25.728598
+
+[Step 53] Loss: 9.3192, Contribution Variance: 25.895161
+
+[Step 54] Loss: 9.3308, Contribution Variance: 25.819788
+
+[Step 55] Loss: 9.3154, Contribution Variance: 25.757544
+
+[Step 56] Loss: 9.2828, Contribution Variance: 25.605661
+
+[Step 57] Loss: 9.2787, Contribution Variance: 25.310570
+
+[Step 58] Loss: 9.2681, Contribution Variance: 25.175133
+
+[Step 59] Loss: 9.2671, Contribution Variance: 25.151777
+
+[Step 60] Loss: 9.2736, Contribution Variance: 25.127960
+
+[Step 61] Loss: 9.2677, Contribution Variance: 25.123703
+
+[Step 62] Loss: 9.2428, Contribution Variance: 24.086992
+
+[Step 63] Loss: 9.2445, Contribution Variance: 24.296577
+
+[Step 64] Loss: 9.2268, Contribution Variance: 24.077362
+
+[Step 65] Loss: 9.2199, Contribution Variance: 24.068226
+
+[Step 66] Loss: 9.1940, Contribution Variance: 24.712683
+
+[Step 67] Loss: 9.1993, Contribution Variance: 24.634617
+
+[Step 68] Loss: 9.2185, Contribution Variance: 24.904560
+
+[Step 69] Loss: 9.2184, Contribution Variance: 25.087324
+
+[Step 70] Loss: 9.2067, Contribution Variance: 24.668140
+
+[Step 71] Loss: 9.1827, Contribution Variance: 24.710827
+
+[Step 72] Loss: 9.1734, Contribution Variance: 24.707998
+
+[Step 73] Loss: 9.1751, Contribution Variance: 24.395119
+
+[Step 74] Loss: 9.1647, Contribution Variance: 24.342831
+
+[Step 75] Loss: 9.1467, Contribution Variance: 24.252649
+
+[Step 76] Loss: 9.0760, Contribution Variance: 24.296577
+
+[Step 77] Loss: 9.0637, Contribution Variance: 24.512814
+
+[Step 78] Loss: 9.0387, Contribution Variance: 24.387749
+
+[Step 79] Loss: 9.0331, Contribution Variance: 24.705545
+
+[Step 80] Loss: 9.0225, Contribution Variance: 24.687664
+
+[Step 81] Loss: 9.0056, Contribution Variance: 24.665028
+
+[Step 82] Loss: 9.0146, Contribution Variance: 24.604763
+
+[Step 83] Loss: 9.0159, Contribution Variance: 24.424706
+
+[Step 84] Loss: 8.9957, Contribution Variance: 24.575693
+
+[Step 85] Loss: 8.9554, Contribution Variance: 24.384914
+
+[Step 86] Loss: 8.9362, Contribution Variance: 24.226568
+
+[Step 87] Loss: 8.8848, Contribution Variance: 24.298750
+
+[Step 88] Loss: 8.8576, Contribution Variance: 24.305361
+
+[Step 89] Loss: 8.8483, Contribution Variance: 24.106670
+
+[Step 90] Loss: 8.8201, Contribution Variance: 24.233904
+
+[Step 91] Loss: 8.8420, Contribution Variance: 24.089895
+
+[Step 92] Loss: 8.8303, Contribution Variance: 24.407377
+
+[Step 93] Loss: 8.7873, Contribution Variance: 24.433685
+
+[Step 94] Loss: 8.7491, Contribution Variance: 24.379450
+
+[Step 95] Loss: 8.7235, Contribution Variance: 23.678690
+
+[Step 96] Loss: 8.7007, Contribution Variance: 24.021318
+
+[Step 97] Loss: 8.6569, Contribution Variance: 23.983812
+
+[Step 98] Loss: 8.6680, Contribution Variance: 23.753101
+
+[Step 99] Loss: 8.6734, Contribution Variance: 23.769686
+
+Optimization Finished
+Time taken: 15195.7771 seconds
+Best Loss 8.65692138671875
+############# Target Question: 8 #############
+Question: Approximately how many books are being used to train artificial intelligence systems?
+
+[Step 0] Loss: 15.9860, Contribution Variance: 43.590916
+
+[Step 1] Loss: 14.9941, Contribution Variance: 44.598888
+
+[Step 2] Loss: 14.5045, Contribution Variance: 43.404850
+
+[Step 3] Loss: 13.9401, Contribution Variance: 41.051945
+
+[Step 4] Loss: 13.4280, Contribution Variance: 35.168709
+
+[Step 5] Loss: 12.8702, Contribution Variance: 37.467033
+
+[Step 6] Loss: 12.6170, Contribution Variance: 37.107166
+
+[Step 7] Loss: 12.5286, Contribution Variance: 34.755356
+
+[Step 8] Loss: 12.4283, Contribution Variance: 35.260551
+
+[Step 9] Loss: 12.1926, Contribution Variance: 35.584419
+
+[Step 10] Loss: 12.1172, Contribution Variance: 35.537052
+
+[Step 11] Loss: 12.0248, Contribution Variance: 34.779701
+
+[Step 12] Loss: 11.9752, Contribution Variance: 34.610207
+
+[Step 13] Loss: 11.8649, Contribution Variance: 34.367271
+
+[Step 14] Loss: 11.7563, Contribution Variance: 33.616772
+
+[Step 15] Loss: 11.6902, Contribution Variance: 33.787540
+
+[Step 16] Loss: 11.6784, Contribution Variance: 33.752842
+
+[Step 17] Loss: 11.6835, Contribution Variance: 34.383923
+
+[Step 18] Loss: 11.6374, Contribution Variance: 34.007912
+
+[Step 19] Loss: 11.6016, Contribution Variance: 33.853123
+
+[Step 20] Loss: 11.5770, Contribution Variance: 33.831459
+
+[Step 21] Loss: 11.5492, Contribution Variance: 34.183487
+
+[Step 22] Loss: 11.5138, Contribution Variance: 33.977638
+
+[Step 23] Loss: 11.3629, Contribution Variance: 33.767040
+
+[Step 24] Loss: 11.3514, Contribution Variance: 33.570797
+
+[Step 25] Loss: 11.3466, Contribution Variance: 33.581417
+
+[Step 26] Loss: 11.2890, Contribution Variance: 33.547405
+
+[Step 27] Loss: 11.2602, Contribution Variance: 33.360420
+
+[Step 28] Loss: 11.2181, Contribution Variance: 33.080994
+
+[Step 29] Loss: 11.1406, Contribution Variance: 32.372330
+
+[Step 30] Loss: 11.1701, Contribution Variance: 32.456623
+
+[Step 31] Loss: 11.1517, Contribution Variance: 32.512970
+
+[Step 32] Loss: 11.1600, Contribution Variance: 31.672720
+
+[Step 33] Loss: 11.1600, Contribution Variance: 31.672720
+
+[Step 34] Loss: 11.1651, Contribution Variance: 32.094906
+
+[Step 35] Loss: 11.1925, Contribution Variance: 32.166012
+
+[Step 36] Loss: 11.1524, Contribution Variance: 32.267429
+
+[Step 37] Loss: 11.1524, Contribution Variance: 32.267429
+
+[Step 38] Loss: 11.1021, Contribution Variance: 31.481512
+
+[Step 39] Loss: 11.0973, Contribution Variance: 31.381535
+
+[Step 40] Loss: 11.0576, Contribution Variance: 31.323658
+
+[Step 41] Loss: 11.0251, Contribution Variance: 31.674292
+
+[Step 42] Loss: 11.0576, Contribution Variance: 31.756704
+
+[Step 43] Loss: 11.0701, Contribution Variance: 31.717846
+
+[Step 44] Loss: 11.0678, Contribution Variance: 31.567135
+
+[Step 45] Loss: 11.0584, Contribution Variance: 31.039621
+
+[Step 46] Loss: 11.0066, Contribution Variance: 30.476681
+
+[Step 47] Loss: 10.9723, Contribution Variance: 29.086323
+
+[Step 48] Loss: 10.9394, Contribution Variance: 28.515728
+
+[Step 49] Loss: 10.8940, Contribution Variance: 28.696203
+
+[Step 50] Loss: 10.8940, Contribution Variance: 28.696203
+
+[Step 51] Loss: 10.9041, Contribution Variance: 29.315134
+
+[Step 52] Loss: 10.9171, Contribution Variance: 29.428955
+
+[Step 53] Loss: 10.9265, Contribution Variance: 29.794971
+
+[Step 54] Loss: 10.9164, Contribution Variance: 30.114029
+
+[Step 55] Loss: 10.8761, Contribution Variance: 31.029577
+
+[Step 56] Loss: 10.8491, Contribution Variance: 30.504055
+
+[Step 57] Loss: 10.8190, Contribution Variance: 29.668722
+
+[Step 58] Loss: 10.8300, Contribution Variance: 29.479565
+
+[Step 59] Loss: 10.8371, Contribution Variance: 29.789246
+
+[Step 60] Loss: 10.8371, Contribution Variance: 29.789246
+
+[Step 61] Loss: 10.8416, Contribution Variance: 29.858683
+
+[Step 62] Loss: 10.8533, Contribution Variance: 29.756144
+
+[Step 63] Loss: 10.8464, Contribution Variance: 29.673050
+
+[Step 64] Loss: 10.8314, Contribution Variance: 30.176962
+
+[Step 65] Loss: 10.8099, Contribution Variance: 30.551220
+
+[Step 66] Loss: 10.7934, Contribution Variance: 30.718410
+
+[Step 67] Loss: 10.7871, Contribution Variance: 30.726704
+
+[Step 68] Loss: 10.7731, Contribution Variance: 29.561123
+
+[Step 69] Loss: 10.7663, Contribution Variance: 29.399649
+
+[Step 70] Loss: 10.7401, Contribution Variance: 29.771326
+
+[Step 71] Loss: 10.7384, Contribution Variance: 29.986929
+
+[Step 72] Loss: 10.7517, Contribution Variance: 29.125851
+
+[Step 73] Loss: 10.7660, Contribution Variance: 29.097809
+
+[Step 74] Loss: 10.7734, Contribution Variance: 29.153393
+
+[Step 75] Loss: 10.7301, Contribution Variance: 28.849192
+
+[Step 76] Loss: 10.7082, Contribution Variance: 27.813120
+
+[Step 77] Loss: 10.7082, Contribution Variance: 27.813120
+
+[Step 78] Loss: 10.7059, Contribution Variance: 27.686710
+
+[Step 79] Loss: 10.7044, Contribution Variance: 27.776102
+
+[Step 80] Loss: 10.6982, Contribution Variance: 27.334692
+
+[Step 81] Loss: 10.6896, Contribution Variance: 27.219122
+
+[Step 82] Loss: 10.7051, Contribution Variance: 27.269840
+
+[Step 83] Loss: 10.7076, Contribution Variance: 27.529522
+
+[Step 84] Loss: 10.6733, Contribution Variance: 27.137020
+
+[Step 85] Loss: 10.6516, Contribution Variance: 27.048645
+
+[Step 86] Loss: 10.6140, Contribution Variance: 26.835632
+
+[Step 87] Loss: 10.5616, Contribution Variance: 27.118717
+
+[Step 88] Loss: 10.5851, Contribution Variance: 27.358669
+
+[Step 89] Loss: 10.5958, Contribution Variance: 27.453741
+
+[Step 90] Loss: 10.5991, Contribution Variance: 27.530029
+
+[Step 91] Loss: 10.6288, Contribution Variance: 26.717066
+
+[Step 92] Loss: 10.6401, Contribution Variance: 25.907312
+
+[Step 93] Loss: 10.6185, Contribution Variance: 26.063730
+
+[Step 94] Loss: 10.6098, Contribution Variance: 25.744110
+
+[Step 95] Loss: 10.6090, Contribution Variance: 25.575779
+
+[Step 96] Loss: 10.6075, Contribution Variance: 25.256487
+
+[Step 97] Loss: 10.6061, Contribution Variance: 25.275322
+
+[Step 98] Loss: 10.5472, Contribution Variance: 25.492352
+
+[Step 99] Loss: 10.5432, Contribution Variance: 25.548306
+
+Optimization Finished
+Time taken: 13578.6808 seconds
+Best Loss 10.543176651000977
+############# Target Question: 9 #############
+Question: Which 2024 Republican presidential contender announced that he is ending his campaign?
+
+[Step 0] Loss: 27.2285, Contribution Variance: 29.044916
+
+[Step 1] Loss: 26.6888, Contribution Variance: 30.644938
+
+[Step 2] Loss: 26.2984, Contribution Variance: 31.719458
+
+[Step 3] Loss: 25.4909, Contribution Variance: 31.450012
+
+[Step 4] Loss: 25.0326, Contribution Variance: 32.506001
+
+[Step 5] Loss: 24.8257, Contribution Variance: 32.919640
+
+[Step 6] Loss: 24.4933, Contribution Variance: 33.816685
+
+[Step 7] Loss: 24.2815, Contribution Variance: 34.567360
+
+[Step 8] Loss: 24.1009, Contribution Variance: 34.276833
+
+[Step 9] Loss: 23.9343, Contribution Variance: 36.046738
+
+[Step 10] Loss: 23.8282, Contribution Variance: 35.846401
+
+[Step 11] Loss: 23.7398, Contribution Variance: 36.042648
+
+[Step 12] Loss: 23.6161, Contribution Variance: 35.824718
+
+[Step 13] Loss: 23.3480, Contribution Variance: 36.034668
+
+[Step 14] Loss: 23.1670, Contribution Variance: 35.540363
+
+[Step 15] Loss: 23.0323, Contribution Variance: 36.314083
+
+[Step 16] Loss: 22.9024, Contribution Variance: 37.362980
+
+[Step 17] Loss: 22.8551, Contribution Variance: 37.500755
+
+[Step 18] Loss: 22.5918, Contribution Variance: 37.094437
+
+[Step 19] Loss: 22.5634, Contribution Variance: 37.926723
+
+[Step 20] Loss: 22.4965, Contribution Variance: 38.679859
+
+[Step 21] Loss: 22.4674, Contribution Variance: 38.568516
+
+[Step 22] Loss: 22.4878, Contribution Variance: 38.874252
+
+[Step 23] Loss: 22.4868, Contribution Variance: 38.699524
+
+[Step 24] Loss: 22.4770, Contribution Variance: 38.559048
+
+[Step 25] Loss: 22.4373, Contribution Variance: 38.470440
+
+[Step 26] Loss: 22.3993, Contribution Variance: 38.547569
+
+[Step 27] Loss: 22.3735, Contribution Variance: 38.389282
+
+[Step 28] Loss: 22.3432, Contribution Variance: 38.228340
+
+[Step 29] Loss: 22.3145, Contribution Variance: 38.030262
+
+[Step 30] Loss: 22.2172, Contribution Variance: 37.834332
+
+[Step 31] Loss: 22.2146, Contribution Variance: 38.101810
+
+[Step 32] Loss: 22.1468, Contribution Variance: 37.863308
+
+[Step 33] Loss: 22.2020, Contribution Variance: 38.204430
+
+[Step 34] Loss: 22.1542, Contribution Variance: 38.319698
+
+[Step 35] Loss: 22.1099, Contribution Variance: 38.942135
+
+[Step 36] Loss: 21.9049, Contribution Variance: 38.859634
+
+[Step 37] Loss: 21.8893, Contribution Variance: 40.029469
+
+[Step 38] Loss: 21.9110, Contribution Variance: 39.553749
+
+[Step 39] Loss: 21.8986, Contribution Variance: 39.567265
+
+[Step 40] Loss: 21.8454, Contribution Variance: 40.039406
+
+[Step 41] Loss: 21.7409, Contribution Variance: 39.998039
+
+[Step 42] Loss: 21.5986, Contribution Variance: 40.467182
+
+[Step 43] Loss: 21.5452, Contribution Variance: 40.156906
+
+[Step 44] Loss: 21.5514, Contribution Variance: 40.624519
+
+[Step 45] Loss: 21.4462, Contribution Variance: 40.088570
+
+[Step 46] Loss: 21.4950, Contribution Variance: 39.582184
+
+[Step 47] Loss: 21.4614, Contribution Variance: 39.216465
+
+[Step 48] Loss: 21.4229, Contribution Variance: 38.852837
+
+[Step 49] Loss: 21.4558, Contribution Variance: 39.124031
+
+[Step 50] Loss: 21.4460, Contribution Variance: 39.315926
+
+[Step 51] Loss: 21.3283, Contribution Variance: 39.563187
+
+[Step 52] Loss: 21.2720, Contribution Variance: 36.932777
+
+[Step 53] Loss: 21.2746, Contribution Variance: 36.683586
+
+[Step 54] Loss: 21.3070, Contribution Variance: 36.580791
+
+[Step 55] Loss: 21.2526, Contribution Variance: 36.688499
+
+[Step 56] Loss: 21.2364, Contribution Variance: 36.921196
+
+[Step 57] Loss: 21.1699, Contribution Variance: 36.939186
+
+[Step 58] Loss: 21.1446, Contribution Variance: 36.964577
+
+[Step 59] Loss: 21.1466, Contribution Variance: 36.893333
+
+[Step 60] Loss: 21.1203, Contribution Variance: 36.792793
+
+[Step 61] Loss: 21.0707, Contribution Variance: 37.022671
+
+[Step 62] Loss: 21.0425, Contribution Variance: 37.178616
+
+[Step 63] Loss: 21.0356, Contribution Variance: 37.172424
+
+[Step 64] Loss: 20.9860, Contribution Variance: 37.740475
+
+[Step 65] Loss: 21.0288, Contribution Variance: 37.858410
+
+[Step 66] Loss: 21.0613, Contribution Variance: 38.528183
+
+[Step 67] Loss: 21.0606, Contribution Variance: 38.539597
+
+[Step 68] Loss: 21.1815, Contribution Variance: 38.332691
+
+[Step 69] Loss: 21.1219, Contribution Variance: 38.178932
+
+[Step 70] Loss: 21.1873, Contribution Variance: 38.215385
+
+[Step 71] Loss: 21.1628, Contribution Variance: 38.087296
+
+[Step 72] Loss: 21.1630, Contribution Variance: 38.718914
+
+[Step 73] Loss: 21.1701, Contribution Variance: 38.762627
+
+[Step 74] Loss: 21.1785, Contribution Variance: 39.294041
+
+[Step 75] Loss: 21.1532, Contribution Variance: 39.881111
+
+[Step 76] Loss: 21.1609, Contribution Variance: 39.351383
+
+[Step 77] Loss: 21.1398, Contribution Variance: 39.437675
+
+[Step 78] Loss: 21.1232, Contribution Variance: 39.418442
+
+[Step 79] Loss: 21.1626, Contribution Variance: 39.768303
+
+[Step 80] Loss: 21.0994, Contribution Variance: 40.009766
+
+[Step 81] Loss: 21.0941, Contribution Variance: 39.946796
+
+[Step 82] Loss: 21.0798, Contribution Variance: 39.861877
+
+[Step 83] Loss: 21.1103, Contribution Variance: 39.160027
+
+[Step 84] Loss: 21.1642, Contribution Variance: 37.884449
+
+[Step 85] Loss: 21.1280, Contribution Variance: 38.140125
+
+[Step 86] Loss: 21.0436, Contribution Variance: 37.918316
+
+[Step 87] Loss: 21.0817, Contribution Variance: 37.756145
+
+[Step 88] Loss: 21.0711, Contribution Variance: 37.479725
+
+[Step 89] Loss: 21.0562, Contribution Variance: 37.273415
+
+[Step 90] Loss: 21.0627, Contribution Variance: 39.154503
+
+[Step 91] Loss: 20.9510, Contribution Variance: 39.658291
+
+[Step 92] Loss: 20.9742, Contribution Variance: 40.352570
+
+[Step 93] Loss: 20.9554, Contribution Variance: 40.025467
+
+[Step 94] Loss: 20.9560, Contribution Variance: 41.204903
+
+[Step 95] Loss: 20.9632, Contribution Variance: 41.105877
+
+[Step 96] Loss: 20.9552, Contribution Variance: 41.161083
+
+[Step 97] Loss: 20.9325, Contribution Variance: 41.777775
+
+[Step 98] Loss: 20.9235, Contribution Variance: 41.393425
+
+[Step 99] Loss: 20.9420, Contribution Variance: 40.898628
+
+Optimization Finished
+Time taken: 12788.9760 seconds
+Best Loss 20.923458099365234
+############# Target Question: 14 #############
+Question: All 41 workers trapped in a collapsed tunnel in the northern Himalayas were rescued after how many days stuck underground?
+
+[Step 0] Loss: 16.3337, Contribution Variance: 22.110645
+
+[Step 1] Loss: 16.1487, Contribution Variance: 22.083069
+
+Optimization Finished
+Time taken: 374.7845 seconds
+Best Loss 15.972933769226074
+############# Target Question: 17 #############
+Question: What did Dutch people put on their heads this week to celebrate a national day?
+
+Optimization Finished
+Time taken: 112.6920 seconds
+Best Loss 20.911907196044922
+############# Target Question: 21 #############
+Question: Which tech leader met with Israel’s president this week?
+
+Optimization Finished
+Time taken: 111.3989 seconds
+Best Loss 27.25824546813965
+############# Target Question: 22 #############
+Question: Which type of recalled food was mistakenly distributed to several large retailers?
+
+[Step 0] Loss: 33.0705, Contribution Variance: 80.265755
+
+[Step 1] Loss: 32.2368, Contribution Variance: 81.637428
+
+[Step 2] Loss: 31.4926, Contribution Variance: 83.309097
+
+[Step 3] Loss: 27.4335, Contribution Variance: 33.234505
+
+[Step 4] Loss: 26.9773, Contribution Variance: 36.334244
+
+[Step 5] Loss: 26.5967, Contribution Variance: 35.320774
+
+[Step 6] Loss: 26.1458, Contribution Variance: 37.377312
+
+[Step 7] Loss: 25.7729, Contribution Variance: 38.579990
+
+[Step 8] Loss: 25.3837, Contribution Variance: 38.963356
+
+[Step 9] Loss: 24.8729, Contribution Variance: 41.029400
+
+[Step 10] Loss: 24.2276, Contribution Variance: 42.634964
+
+[Step 11] Loss: 24.0305, Contribution Variance: 42.035671
+
+[Step 12] Loss: 23.8435, Contribution Variance: 42.239891
+
+[Step 13] Loss: 23.3822, Contribution Variance: 40.994431
+
+[Step 14] Loss: 23.3402, Contribution Variance: 40.697701
+
+[Step 15] Loss: 23.2522, Contribution Variance: 40.786629
+
+[Step 16] Loss: 23.0653, Contribution Variance: 41.096138
+
+[Step 17] Loss: 22.4704, Contribution Variance: 41.674969
+
+[Step 18] Loss: 22.2512, Contribution Variance: 40.033146
+
+[Step 19] Loss: 22.0595, Contribution Variance: 41.177486
+
+[Step 20] Loss: 22.0808, Contribution Variance: 40.802402
+
+[Step 21] Loss: 22.0142, Contribution Variance: 41.058861
+
+[Step 22] Loss: 22.0728, Contribution Variance: 41.541313
+
+[Step 23] Loss: 21.9306, Contribution Variance: 41.090687
+
+[Step 24] Loss: 21.8847, Contribution Variance: 40.951801
+
+[Step 25] Loss: 21.7746, Contribution Variance: 39.711765
+
+[Step 26] Loss: 21.7197, Contribution Variance: 39.671734
+
+[Step 27] Loss: 21.6352, Contribution Variance: 39.209797
+
+[Step 28] Loss: 21.6352, Contribution Variance: 39.209797
+
+[Step 29] Loss: 21.6423, Contribution Variance: 39.613941
+
+[Step 30] Loss: 21.6016, Contribution Variance: 40.623737
+
+[Step 31] Loss: 21.5501, Contribution Variance: 40.594105
+
+[Step 32] Loss: 21.5024, Contribution Variance: 41.593449
+
+[Step 33] Loss: 21.4307, Contribution Variance: 41.883064
+
+[Step 34] Loss: 21.3268, Contribution Variance: 40.301273
+
+[Step 35] Loss: 21.2380, Contribution Variance: 40.214943
+
+[Step 36] Loss: 21.0825, Contribution Variance: 37.725517
+
+[Step 37] Loss: 21.0358, Contribution Variance: 37.561783
+
+[Step 38] Loss: 21.0327, Contribution Variance: 37.543816
+
+[Step 39] Loss: 21.0158, Contribution Variance: 37.805683
+
+[Step 40] Loss: 20.9782, Contribution Variance: 38.199833
+
+[Step 41] Loss: 20.9697, Contribution Variance: 37.714550
+
+[Step 42] Loss: 21.0359, Contribution Variance: 37.470470
+
+[Step 43] Loss: 21.0202, Contribution Variance: 37.374378
+
+[Step 44] Loss: 20.9685, Contribution Variance: 36.973869
+
+[Step 45] Loss: 20.9612, Contribution Variance: 36.786629
+
+[Step 46] Loss: 20.1944, Contribution Variance: 46.859627
+
+[Step 47] Loss: 19.8842, Contribution Variance: 43.383636
+
+[Step 48] Loss: 19.7479, Contribution Variance: 41.358097
+
+[Step 49] Loss: 19.3790, Contribution Variance: 39.083214
+
+[Step 50] Loss: 19.1410, Contribution Variance: 38.079811
+
+[Step 51] Loss: 18.9865, Contribution Variance: 38.012421
+
+[Step 52] Loss: 18.9502, Contribution Variance: 34.866734
+
+[Step 53] Loss: 18.6826, Contribution Variance: 32.389252
+
+[Step 54] Loss: 18.4002, Contribution Variance: 33.212772
+
+[Step 55] Loss: 18.2024, Contribution Variance: 32.163174
+
+[Step 56] Loss: 18.1394, Contribution Variance: 31.944302
+
+[Step 57] Loss: 18.0658, Contribution Variance: 31.090860
+
+[Step 58] Loss: 18.0304, Contribution Variance: 31.375021
+
+[Step 59] Loss: 17.9353, Contribution Variance: 30.795004
+
+[Step 60] Loss: 17.9226, Contribution Variance: 30.363678
+
+[Step 61] Loss: 17.9404, Contribution Variance: 30.652044
+
+[Step 62] Loss: 17.9480, Contribution Variance: 30.571011
+
+[Step 63] Loss: 17.9250, Contribution Variance: 30.563705
+
+[Step 64] Loss: 17.7779, Contribution Variance: 30.475174
+
+[Step 65] Loss: 17.7363, Contribution Variance: 30.271133
+
+[Step 66] Loss: 17.7285, Contribution Variance: 30.237396
+
+[Step 67] Loss: 17.6201, Contribution Variance: 30.165497
+
+[Step 68] Loss: 17.6026, Contribution Variance: 30.934460
+
+[Step 69] Loss: 17.5659, Contribution Variance: 30.876169
+
+[Step 70] Loss: 17.5567, Contribution Variance: 31.185028
+
+[Step 71] Loss: 17.4470, Contribution Variance: 30.764984
+
+[Step 72] Loss: 17.3217, Contribution Variance: 30.562351
+
+[Step 73] Loss: 17.3100, Contribution Variance: 29.873297
+
+[Step 74] Loss: 17.2685, Contribution Variance: 29.790136
+
+[Step 75] Loss: 17.2411, Contribution Variance: 29.434032
+
+[Step 76] Loss: 17.1838, Contribution Variance: 28.841366
+
+[Step 77] Loss: 17.1745, Contribution Variance: 28.648045
+
+[Step 78] Loss: 17.1484, Contribution Variance: 29.140087
+
+[Step 79] Loss: 17.0779, Contribution Variance: 28.595917
+
+[Step 80] Loss: 17.0890, Contribution Variance: 28.261023
+
+[Step 81] Loss: 17.0819, Contribution Variance: 28.569727
+
+[Step 82] Loss: 17.0295, Contribution Variance: 27.981211
+
+[Step 83] Loss: 16.9629, Contribution Variance: 28.183838
+
+[Step 84] Loss: 16.9667, Contribution Variance: 28.470739
+
+[Step 85] Loss: 16.9310, Contribution Variance: 28.358231
+
+[Step 86] Loss: 16.9274, Contribution Variance: 28.451916
+
+[Step 87] Loss: 16.9312, Contribution Variance: 28.594372
+
+[Step 88] Loss: 16.9294, Contribution Variance: 28.797855
+
+[Step 89] Loss: 16.9214, Contribution Variance: 30.109400
+
+[Step 90] Loss: 16.8756, Contribution Variance: 31.059971
+
+[Step 91] Loss: 16.8450, Contribution Variance: 30.430096
+
+[Step 92] Loss: 16.8358, Contribution Variance: 29.971256
+
+[Step 93] Loss: 16.8254, Contribution Variance: 30.066431
+
+[Step 94] Loss: 16.8125, Contribution Variance: 30.629761
+
+[Step 95] Loss: 16.8035, Contribution Variance: 30.436954
+
+[Step 96] Loss: 16.8027, Contribution Variance: 30.150070
+
+[Step 97] Loss: 16.7831, Contribution Variance: 30.046749
+
+[Step 98] Loss: 16.7744, Contribution Variance: 30.195118
+
+[Step 99] Loss: 16.7398, Contribution Variance: 29.762793
+
+Optimization Finished
+Time taken: 10417.2067 seconds
+Best Loss 16.73984146118164
+############# Target Question: 31 #############
+Question: How many Republican candidates participated in the presidential debate this week?
+
+[Step 0] Loss: 13.5625, Contribution Variance: 43.335457
+
+[Step 1] Loss: 12.6092, Contribution Variance: 43.684471
+
+[Step 2] Loss: 11.8169, Contribution Variance: 42.966953
+
+[Step 3] Loss: 11.6251, Contribution Variance: 43.535789
+
+[Step 4] Loss: 11.3788, Contribution Variance: 44.257210
+
+[Step 5] Loss: 11.2677, Contribution Variance: 43.170193
+
+[Step 6] Loss: 11.0270, Contribution Variance: 43.105598
+
+[Step 7] Loss: 10.9163, Contribution Variance: 43.661858
+
+[Step 8] Loss: 10.8102, Contribution Variance: 43.531067
+
+[Step 9] Loss: 10.6781, Contribution Variance: 43.320396
+
+[Step 10] Loss: 10.5155, Contribution Variance: 43.152233
+
+[Step 11] Loss: 10.4008, Contribution Variance: 43.056591
+
+[Step 12] Loss: 10.2160, Contribution Variance: 41.835354
+
+[Step 13] Loss: 10.0673, Contribution Variance: 42.207939
+
+[Step 14] Loss: 10.0556, Contribution Variance: 42.356468
+
+[Step 15] Loss: 9.9787, Contribution Variance: 42.586437
+
+[Step 16] Loss: 9.9203, Contribution Variance: 43.586082
+
+[Step 17] Loss: 9.8558, Contribution Variance: 43.729820
+
+[Step 18] Loss: 9.6766, Contribution Variance: 43.613567
+
+[Step 19] Loss: 9.6481, Contribution Variance: 43.412624
+
+[Step 20] Loss: 9.6246, Contribution Variance: 43.380058
+
+[Step 21] Loss: 9.5962, Contribution Variance: 43.311375
+
+[Step 22] Loss: 9.5604, Contribution Variance: 43.237206
+
+[Step 23] Loss: 9.5207, Contribution Variance: 42.966011
+
+[Step 24] Loss: 9.5292, Contribution Variance: 43.022835
+
+[Step 25] Loss: 9.4752, Contribution Variance: 41.926456
+
+[Step 26] Loss: 9.4458, Contribution Variance: 42.155113
+
+[Step 27] Loss: 9.3837, Contribution Variance: 41.764431
+
+[Step 28] Loss: 9.3483, Contribution Variance: 41.498932
+
+[Step 29] Loss: 9.3304, Contribution Variance: 41.536903
+
+[Step 30] Loss: 9.2674, Contribution Variance: 40.888924
+
+[Step 31] Loss: 9.2439, Contribution Variance: 41.261673
+
+[Step 32] Loss: 9.1932, Contribution Variance: 41.358604
+
+[Step 33] Loss: 9.1724, Contribution Variance: 42.068611
+
+[Step 34] Loss: 9.1415, Contribution Variance: 41.618462
+
+[Step 35] Loss: 9.0636, Contribution Variance: 41.361607
+
+[Step 36] Loss: 9.0342, Contribution Variance: 40.770023
+
+[Step 37] Loss: 9.0013, Contribution Variance: 40.720573
+
+[Step 38] Loss: 8.9888, Contribution Variance: 40.785210
+
+[Step 39] Loss: 8.9644, Contribution Variance: 41.001431
+
+[Step 40] Loss: 8.9562, Contribution Variance: 40.860580
+
+[Step 41] Loss: 8.9282, Contribution Variance: 41.025337
+
+[Step 42] Loss: 8.9144, Contribution Variance: 41.063366
+
+[Step 43] Loss: 8.8732, Contribution Variance: 41.699944
+
+[Step 44] Loss: 8.8422, Contribution Variance: 41.314754
+
+[Step 45] Loss: 8.8055, Contribution Variance: 41.819916
+
+[Step 46] Loss: 8.7619, Contribution Variance: 41.955379
+
+[Step 47] Loss: 8.7428, Contribution Variance: 41.627518
+
+[Step 48] Loss: 8.7406, Contribution Variance: 42.246010
+
+[Step 49] Loss: 8.7320, Contribution Variance: 41.856251
+
+[Step 50] Loss: 8.7093, Contribution Variance: 41.604431
+
+[Step 51] Loss: 8.6969, Contribution Variance: 42.076248
+
+[Step 52] Loss: 8.6207, Contribution Variance: 42.771439
+
+[Step 53] Loss: 8.5843, Contribution Variance: 42.662941
+
+[Step 54] Loss: 8.5626, Contribution Variance: 42.706329
+
+[Step 55] Loss: 8.5518, Contribution Variance: 42.689587
+
+[Step 56] Loss: 8.5171, Contribution Variance: 42.886211
+
+[Step 57] Loss: 8.5135, Contribution Variance: 42.882282
+
+[Step 58] Loss: 8.4603, Contribution Variance: 43.117615
+
+[Step 59] Loss: 8.4172, Contribution Variance: 43.097992
+
+[Step 60] Loss: 8.3611, Contribution Variance: 42.733841
+
+[Step 61] Loss: 8.3174, Contribution Variance: 42.759987
+
+[Step 62] Loss: 8.2992, Contribution Variance: 42.425377
+
+[Step 63] Loss: 8.2821, Contribution Variance: 42.485771
+
+[Step 64] Loss: 8.2766, Contribution Variance: 42.383190
+
+[Step 65] Loss: 8.2809, Contribution Variance: 42.441280
+
+[Step 66] Loss: 8.2732, Contribution Variance: 42.348373
+
+[Step 67] Loss: 8.2617, Contribution Variance: 42.418781
+
+[Step 68] Loss: 8.2502, Contribution Variance: 42.110481
+
+[Step 69] Loss: 8.2634, Contribution Variance: 42.284004
+
+[Step 70] Loss: 8.2542, Contribution Variance: 42.523521
+
+[Step 71] Loss: 8.2244, Contribution Variance: 42.386181
+
+[Step 72] Loss: 8.2108, Contribution Variance: 42.350838
+
+[Step 73] Loss: 8.1882, Contribution Variance: 42.517128
+
+[Step 74] Loss: 8.1774, Contribution Variance: 43.296085
+
+[Step 75] Loss: 8.1895, Contribution Variance: 43.230965
+
+[Step 76] Loss: 8.1629, Contribution Variance: 43.572304
+
+[Step 77] Loss: 8.1551, Contribution Variance: 42.956963
+
+[Step 78] Loss: 8.1719, Contribution Variance: 42.715733
+
+[Step 79] Loss: 8.1493, Contribution Variance: 42.793434
+
+[Step 80] Loss: 8.1233, Contribution Variance: 43.227558
+
+[Step 81] Loss: 8.0951, Contribution Variance: 43.235344
+
+[Step 82] Loss: 8.0714, Contribution Variance: 43.205612
+
+[Step 83] Loss: 8.1087, Contribution Variance: 43.290092
+
+[Step 84] Loss: 8.1246, Contribution Variance: 43.248829
+
+[Step 85] Loss: 8.0829, Contribution Variance: 43.068779
+
+[Step 86] Loss: 8.0829, Contribution Variance: 43.068779
+
+[Step 87] Loss: 8.0829, Contribution Variance: 43.068779
+
+[Step 88] Loss: 8.0497, Contribution Variance: 42.858032
+
+[Step 89] Loss: 8.0337, Contribution Variance: 42.681103
+
+[Step 90] Loss: 8.0350, Contribution Variance: 43.041008
+
+[Step 91] Loss: 8.0179, Contribution Variance: 43.917503
+
+[Step 92] Loss: 8.0179, Contribution Variance: 43.917503
+
+[Step 93] Loss: 7.9977, Contribution Variance: 44.082592
+
+[Step 94] Loss: 8.0005, Contribution Variance: 44.271172
+
+[Step 95] Loss: 7.9797, Contribution Variance: 43.616737
+
+[Step 96] Loss: 7.9694, Contribution Variance: 43.563030
+
+[Step 97] Loss: 7.9591, Contribution Variance: 42.866066
+
+[Step 98] Loss: 7.9711, Contribution Variance: 42.576443
+
+[Step 99] Loss: 7.9466, Contribution Variance: 42.890423
+
+Optimization Finished
+Time taken: 9248.4964 seconds
+Best Loss 7.946567535400391
+############# Target Question: 32 #############
+Question: Which labor union ended a historic strike this week?
+
+[Step 0] Loss: 28.8044, Contribution Variance: 46.255089
+
+[Step 1] Loss: 27.8936, Contribution Variance: 41.660061
+
+[Step 2] Loss: 27.2841, Contribution Variance: 38.128483
+
+[Step 3] Loss: 26.2985, Contribution Variance: 27.713358
+
+[Step 4] Loss: 25.7518, Contribution Variance: 23.543270
+
+[Step 5] Loss: 25.4116, Contribution Variance: 21.876247
+
+[Step 6] Loss: 25.0950, Contribution Variance: 21.861172
+
+[Step 7] Loss: 24.8497, Contribution Variance: 24.183575
+
+[Step 8] Loss: 24.4566, Contribution Variance: 25.810490
+
+[Step 9] Loss: 24.1159, Contribution Variance: 24.160881
+
+[Step 10] Loss: 23.6878, Contribution Variance: 21.947086
+
+[Step 11] Loss: 23.3989, Contribution Variance: 22.357279
+
+[Step 12] Loss: 23.2840, Contribution Variance: 21.930252
+
+[Step 13] Loss: 23.0562, Contribution Variance: 21.749302
+
+[Step 14] Loss: 22.5966, Contribution Variance: 22.303112
+
+[Step 15] Loss: 22.2844, Contribution Variance: 26.573944
+
+[Step 16] Loss: 22.0598, Contribution Variance: 24.033680
+
+[Step 17] Loss: 21.5527, Contribution Variance: 24.350803
+
+[Step 18] Loss: 21.1069, Contribution Variance: 25.342634
+
+Optimization Finished
+Time taken: 2119.2977 seconds
+Best Loss 20.92522430419922
+############# Target Question: 35 #############
+Question: More than 30,000 pounds of which food product were recently recalled?
+
+[Step 0] Loss: 28.6244, Contribution Variance: 51.631641
+
+[Step 1] Loss: 25.4844, Contribution Variance: 30.338909
+
+[Step 2] Loss: 24.3743, Contribution Variance: 31.523077
+
+[Step 3] Loss: 23.8864, Contribution Variance: 32.203884
+
+[Step 4] Loss: 23.1145, Contribution Variance: 27.391041
+
+Optimization Finished
+Time taken: 748.2078 seconds
+Best Loss 22.164796829223633
+############# Target Question: 38 #############
+Question: What prompted the shooting incident in Wilmington?
+
+[Step 0] Loss: 26.3106, Contribution Variance: 29.058090
+
+[Step 1] Loss: 25.7834, Contribution Variance: 29.233374
+
+[Step 2] Loss: 25.1112, Contribution Variance: 24.910351
+
+[Step 3] Loss: 24.7885, Contribution Variance: 26.357965
+
+[Step 4] Loss: 24.3406, Contribution Variance: 29.952724
+
+[Step 5] Loss: 23.9386, Contribution Variance: 29.021341
+
+[Step 6] Loss: 23.4739, Contribution Variance: 31.713238
+
+[Step 7] Loss: 23.2205, Contribution Variance: 31.989162
+
+[Step 8] Loss: 23.1049, Contribution Variance: 32.625969
+
+[Step 9] Loss: 22.8478, Contribution Variance: 33.370056
+
+[Step 10] Loss: 22.7321, Contribution Variance: 32.732140
+
+[Step 11] Loss: 22.7059, Contribution Variance: 32.742359
+
+[Step 12] Loss: 22.5008, Contribution Variance: 34.004372
+
+[Step 13] Loss: 22.4740, Contribution Variance: 34.028984
+
+[Step 14] Loss: 22.3370, Contribution Variance: 33.211372
+
+[Step 15] Loss: 22.3014, Contribution Variance: 34.994362
+
+[Step 16] Loss: 22.2991, Contribution Variance: 34.941154
+
+[Step 17] Loss: 22.3020, Contribution Variance: 35.137222
+
+[Step 18] Loss: 22.1353, Contribution Variance: 34.151756
+
+[Step 19] Loss: 21.9273, Contribution Variance: 33.896996
+
+[Step 20] Loss: 21.9489, Contribution Variance: 33.801113
+
+[Step 21] Loss: 21.9138, Contribution Variance: 33.074848
+
+[Step 22] Loss: 21.7865, Contribution Variance: 35.357269
+
+[Step 23] Loss: 21.7113, Contribution Variance: 34.139133
+
+[Step 24] Loss: 21.6566, Contribution Variance: 33.597641
+
+[Step 25] Loss: 21.5662, Contribution Variance: 33.180534
+
+[Step 26] Loss: 21.4904, Contribution Variance: 33.287155
+
+[Step 27] Loss: 21.4090, Contribution Variance: 35.610798
+
+[Step 28] Loss: 21.3036, Contribution Variance: 32.716774
+
+[Step 29] Loss: 21.2108, Contribution Variance: 32.887993
+
+[Step 30] Loss: 21.1487, Contribution Variance: 33.539318
+
+[Step 31] Loss: 21.1054, Contribution Variance: 34.361065
+
+[Step 32] Loss: 21.0929, Contribution Variance: 34.304970
+
+[Step 33] Loss: 21.1031, Contribution Variance: 34.476551
+
+[Step 34] Loss: 21.0755, Contribution Variance: 34.661655
+
+[Step 35] Loss: 21.0330, Contribution Variance: 32.637985
+
+[Step 36] Loss: 20.5250, Contribution Variance: 41.915710
+
+[Step 37] Loss: 20.3371, Contribution Variance: 43.457680
+
+[Step 38] Loss: 20.3033, Contribution Variance: 43.227104
+
+[Step 39] Loss: 20.2121, Contribution Variance: 42.804970
+
+[Step 40] Loss: 20.1800, Contribution Variance: 41.935516
+
+[Step 41] Loss: 20.0970, Contribution Variance: 41.682079
+
+[Step 42] Loss: 20.1071, Contribution Variance: 41.357101
+
+[Step 43] Loss: 20.0830, Contribution Variance: 41.158062
+
+[Step 44] Loss: 20.1162, Contribution Variance: 40.977562
+
+[Step 45] Loss: 20.0705, Contribution Variance: 40.605034
+
+[Step 46] Loss: 20.0625, Contribution Variance: 40.644245
+
+[Step 47] Loss: 20.0305, Contribution Variance: 39.967010
+
+[Step 48] Loss: 20.0150, Contribution Variance: 40.087502
+
+[Step 49] Loss: 20.0140, Contribution Variance: 40.102074
+
+[Step 50] Loss: 20.0005, Contribution Variance: 39.003044
+
+[Step 51] Loss: 19.8834, Contribution Variance: 40.374031
+
+[Step 52] Loss: 19.8853, Contribution Variance: 40.428596
+
+[Step 53] Loss: 19.8814, Contribution Variance: 40.226967
+
+[Step 54] Loss: 19.8814, Contribution Variance: 40.226967
+
+[Step 55] Loss: 19.8814, Contribution Variance: 40.226967
+
+[Step 56] Loss: 19.8727, Contribution Variance: 39.967785
+
+[Step 57] Loss: 19.8209, Contribution Variance: 39.242195
+
+[Step 58] Loss: 19.7989, Contribution Variance: 39.304432
+
+[Step 59] Loss: 19.7479, Contribution Variance: 39.175388
+
+[Step 60] Loss: 19.7479, Contribution Variance: 39.175388
+
+[Step 61] Loss: 19.7701, Contribution Variance: 38.993446
+
+[Step 62] Loss: 19.7087, Contribution Variance: 37.977592
+
+[Step 63] Loss: 19.6678, Contribution Variance: 37.220173
+
+[Step 64] Loss: 19.7117, Contribution Variance: 39.670433
+
+[Step 65] Loss: 19.7283, Contribution Variance: 38.426266
+
+[Step 66] Loss: 19.6449, Contribution Variance: 38.578682
+
+[Step 67] Loss: 19.5421, Contribution Variance: 37.002834
+
+[Step 68] Loss: 19.5848, Contribution Variance: 37.525230
+
+[Step 69] Loss: 19.5512, Contribution Variance: 35.290974
+
+[Step 70] Loss: 19.5345, Contribution Variance: 35.182594
+
+[Step 71] Loss: 19.4644, Contribution Variance: 36.090126
+
+[Step 72] Loss: 19.4326, Contribution Variance: 35.064354
+
+[Step 73] Loss: 19.4282, Contribution Variance: 35.085350
+
+[Step 74] Loss: 19.4361, Contribution Variance: 35.088524
+
+[Step 75] Loss: 19.4792, Contribution Variance: 35.037224
+
+[Step 76] Loss: 19.4241, Contribution Variance: 34.605179
+
+[Step 77] Loss: 19.3111, Contribution Variance: 32.018204
+
+[Step 78] Loss: 19.2970, Contribution Variance: 31.197556
+
+[Step 79] Loss: 19.2880, Contribution Variance: 31.120773
+
+[Step 80] Loss: 19.2550, Contribution Variance: 31.084387
+
+[Step 81] Loss: 19.1897, Contribution Variance: 30.669321
+
+[Step 82] Loss: 19.0576, Contribution Variance: 31.012363
+
+[Step 83] Loss: 18.9393, Contribution Variance: 30.023615
+
+[Step 84] Loss: 18.9199, Contribution Variance: 29.779648
+
+[Step 85] Loss: 18.8949, Contribution Variance: 29.262833
+
+[Step 86] Loss: 18.8687, Contribution Variance: 29.395397
+
+[Step 87] Loss: 18.8988, Contribution Variance: 29.329037
+
+[Step 88] Loss: 18.8756, Contribution Variance: 30.069876
+
+[Step 89] Loss: 18.8371, Contribution Variance: 29.995529
+
+[Step 90] Loss: 18.8423, Contribution Variance: 29.953918
+
+[Step 91] Loss: 18.7230, Contribution Variance: 30.006313
+
+[Step 92] Loss: 18.7206, Contribution Variance: 30.767105
+
+[Step 93] Loss: 18.6765, Contribution Variance: 31.452148
+
+[Step 94] Loss: 18.6294, Contribution Variance: 31.373224
+
+[Step 95] Loss: 18.5381, Contribution Variance: 30.935247
+
+[Step 96] Loss: 18.4999, Contribution Variance: 31.187347
+
+[Step 97] Loss: 18.5221, Contribution Variance: 31.763178
+
+[Step 98] Loss: 18.4809, Contribution Variance: 31.391138
+
+[Step 99] Loss: 18.4506, Contribution Variance: 31.117701
+
+Optimization Finished
+Time taken: 13074.4669 seconds
+Best Loss 18.450572967529297
+############# Target Question: 39 #############
+Question: What incident initially brought Timothy Edward Olschafskie to the attention of Delaware authorities on March 11?
+
+[Step 0] Loss: 26.9190, Contribution Variance: 44.529552
+
+[Step 1] Loss: 26.3745, Contribution Variance: 45.468327
+
+[Step 2] Loss: 25.7673, Contribution Variance: 39.716103
+
+[Step 3] Loss: 25.4247, Contribution Variance: 40.392086
+
+[Step 4] Loss: 24.8037, Contribution Variance: 41.351982
+
+[Step 5] Loss: 24.2157, Contribution Variance: 41.943096
+
+[Step 6] Loss: 23.9364, Contribution Variance: 43.086830
+
+[Step 7] Loss: 23.5217, Contribution Variance: 43.494827
+
+[Step 8] Loss: 23.1826, Contribution Variance: 44.773811
+
+[Step 9] Loss: 22.8762, Contribution Variance: 44.677433
+
+[Step 10] Loss: 22.6180, Contribution Variance: 46.066826
+
+[Step 11] Loss: 22.3193, Contribution Variance: 46.893463
+
+[Step 12] Loss: 22.2234, Contribution Variance: 46.487343
+
+[Step 13] Loss: 22.1337, Contribution Variance: 46.512260
+
+[Step 14] Loss: 22.0160, Contribution Variance: 46.043404
+
+[Step 15] Loss: 21.9111, Contribution Variance: 47.018715
+
+[Step 16] Loss: 21.8135, Contribution Variance: 48.072113
+
+[Step 17] Loss: 21.7626, Contribution Variance: 46.616432
+
+[Step 18] Loss: 21.6919, Contribution Variance: 47.059666
+
+[Step 19] Loss: 21.4816, Contribution Variance: 47.984215
+
+[Step 20] Loss: 21.2897, Contribution Variance: 46.290546
+
+[Step 21] Loss: 21.2377, Contribution Variance: 45.845337
+
+[Step 22] Loss: 21.0566, Contribution Variance: 46.785866
+
+[Step 23] Loss: 21.0243, Contribution Variance: 47.390190
+
+[Step 24] Loss: 20.9957, Contribution Variance: 47.319149
+
+[Step 25] Loss: 20.9629, Contribution Variance: 47.742188
+
+[Step 26] Loss: 20.8913, Contribution Variance: 48.191193
+
+[Step 27] Loss: 20.8519, Contribution Variance: 47.820713
+
+[Step 28] Loss: 20.2857, Contribution Variance: 47.877182
+
+[Step 29] Loss: 20.1579, Contribution Variance: 47.631477
+
+[Step 30] Loss: 20.1023, Contribution Variance: 47.256554
+
+[Step 31] Loss: 20.0796, Contribution Variance: 48.013172
+
+[Step 32] Loss: 20.0321, Contribution Variance: 46.904720
+
+[Step 33] Loss: 19.9827, Contribution Variance: 48.437614
+
+[Step 34] Loss: 19.9624, Contribution Variance: 47.409306
+
+[Step 35] Loss: 19.9233, Contribution Variance: 47.555580
+
+[Step 36] Loss: 19.8442, Contribution Variance: 47.173515
+
+[Step 37] Loss: 19.8070, Contribution Variance: 47.581638
+
+[Step 38] Loss: 19.7984, Contribution Variance: 47.254517
+
+[Step 39] Loss: 19.7372, Contribution Variance: 46.708233
+
+[Step 40] Loss: 19.7146, Contribution Variance: 46.793587
+
+[Step 41] Loss: 19.6748, Contribution Variance: 46.768871
+
+[Step 42] Loss: 19.6113, Contribution Variance: 46.778122
+
+[Step 43] Loss: 19.5616, Contribution Variance: 45.996117
+
+[Step 44] Loss: 19.5335, Contribution Variance: 46.456013
+
+[Step 45] Loss: 19.4806, Contribution Variance: 47.096577
+
+[Step 46] Loss: 19.4892, Contribution Variance: 47.459831
+
+[Step 47] Loss: 19.4482, Contribution Variance: 47.682205
+
+[Step 48] Loss: 19.4471, Contribution Variance: 47.720310
+
+[Step 49] Loss: 19.4519, Contribution Variance: 47.904610
+
+[Step 50] Loss: 19.4281, Contribution Variance: 47.889503
+
+[Step 51] Loss: 19.3599, Contribution Variance: 47.978493
+
+[Step 52] Loss: 19.3330, Contribution Variance: 47.911316
+
+[Step 53] Loss: 19.3277, Contribution Variance: 48.375954
+
+[Step 54] Loss: 19.3322, Contribution Variance: 48.560360
+
+[Step 55] Loss: 19.2795, Contribution Variance: 48.731556
+
+[Step 56] Loss: 19.2792, Contribution Variance: 48.571270
+
+[Step 57] Loss: 19.2792, Contribution Variance: 48.571270
+
+[Step 58] Loss: 19.2446, Contribution Variance: 49.567726
+
+[Step 59] Loss: 19.2279, Contribution Variance: 49.772717
+
+[Step 60] Loss: 19.1108, Contribution Variance: 49.840523
+
+[Step 61] Loss: 19.1278, Contribution Variance: 49.991875
+
+[Step 62] Loss: 19.1196, Contribution Variance: 49.980858
+
+[Step 63] Loss: 19.0496, Contribution Variance: 49.857292
+
+[Step 64] Loss: 19.0496, Contribution Variance: 49.857292
+
+[Step 65] Loss: 19.0369, Contribution Variance: 49.816326
+
+[Step 66] Loss: 19.0137, Contribution Variance: 49.950844
+
+[Step 67] Loss: 19.0369, Contribution Variance: 49.816326
+
+[Step 68] Loss: 19.0058, Contribution Variance: 50.315136
+
+[Step 69] Loss: 18.9794, Contribution Variance: 50.014149
+
+[Step 70] Loss: 18.9641, Contribution Variance: 50.254467
+
+[Step 71] Loss: 18.9666, Contribution Variance: 50.186333
+
+[Step 72] Loss: 18.9470, Contribution Variance: 50.403378
+
+[Step 73] Loss: 18.9840, Contribution Variance: 49.632618
+
+[Step 74] Loss: 18.9505, Contribution Variance: 49.250656
+
+[Step 75] Loss: 18.9592, Contribution Variance: 48.926033
+
+[Step 76] Loss: 18.9412, Contribution Variance: 50.986660
+
+[Step 77] Loss: 18.9463, Contribution Variance: 51.868275
+
+[Step 78] Loss: 18.9061, Contribution Variance: 52.512531
+
+[Step 79] Loss: 18.9064, Contribution Variance: 52.405663
+
+[Step 80] Loss: 18.8945, Contribution Variance: 52.641388
+
+[Step 81] Loss: 18.8963, Contribution Variance: 53.106255
+
+[Step 82] Loss: 18.8666, Contribution Variance: 52.611847
+
+[Step 83] Loss: 18.8035, Contribution Variance: 52.884521
+
+[Step 84] Loss: 18.8213, Contribution Variance: 52.940948
+
+[Step 85] Loss: 18.8192, Contribution Variance: 53.190613
+
+[Step 86] Loss: 18.8172, Contribution Variance: 53.572380
+
+[Step 87] Loss: 18.7841, Contribution Variance: 54.426170
+
+[Step 88] Loss: 18.7294, Contribution Variance: 54.251274
+
+[Step 89] Loss: 18.7188, Contribution Variance: 53.755714
+
+[Step 90] Loss: 18.7373, Contribution Variance: 53.396355
+
+[Step 91] Loss: 18.6777, Contribution Variance: 53.675262
+
+[Step 92] Loss: 18.6388, Contribution Variance: 53.552631
+
+[Step 93] Loss: 18.6133, Contribution Variance: 53.206165
+
+[Step 94] Loss: 18.5576, Contribution Variance: 52.730694
+
+[Step 95] Loss: 18.5219, Contribution Variance: 52.684639
+
+[Step 96] Loss: 18.5305, Contribution Variance: 52.377453
+
+[Step 97] Loss: 18.4368, Contribution Variance: 52.773346
+
+[Step 98] Loss: 18.5022, Contribution Variance: 53.373024
+
+[Step 99] Loss: 18.5096, Contribution Variance: 53.983452
+
+Optimization Finished
+Time taken: 13072.2518 seconds
+Best Loss 18.436840057373047
+############# Target Question: 42 #############
+Question: What percentage of Australian voters submitted "No" ballots in the country's Indigenous Voice referendum last Saturday?
+
+[Step 0] Loss: 18.4375, Contribution Variance: 49.924492
+
+[Step 1] Loss: 16.8535, Contribution Variance: 41.547211
+
+[Step 2] Loss: 15.9800, Contribution Variance: 35.752369
+
+[Step 3] Loss: 15.4881, Contribution Variance: 34.692970
+
+[Step 4] Loss: 15.0807, Contribution Variance: 31.638941
+
+[Step 5] Loss: 14.7986, Contribution Variance: 32.405178
+
+[Step 6] Loss: 14.4557, Contribution Variance: 32.867271
+
+[Step 7] Loss: 14.3761, Contribution Variance: 30.488398
+
+[Step 8] Loss: 14.2916, Contribution Variance: 30.519323
+
+[Step 9] Loss: 14.1748, Contribution Variance: 30.878399
+
+[Step 10] Loss: 14.0771, Contribution Variance: 30.083927
+
+[Step 11] Loss: 13.8555, Contribution Variance: 29.816799
+
+[Step 12] Loss: 13.7356, Contribution Variance: 29.966812
+
+[Step 13] Loss: 13.6787, Contribution Variance: 29.369129
+
+[Step 14] Loss: 13.6972, Contribution Variance: 29.344736
+
+[Step 15] Loss: 13.6188, Contribution Variance: 28.470755
+
+[Step 16] Loss: 13.5772, Contribution Variance: 28.195059
+
+[Step 17] Loss: 13.5407, Contribution Variance: 28.319103
+
+[Step 18] Loss: 13.4431, Contribution Variance: 28.921341
+
+[Step 19] Loss: 13.4431, Contribution Variance: 28.921341
+
+[Step 20] Loss: 13.4281, Contribution Variance: 28.715897
+
+[Step 21] Loss: 13.4463, Contribution Variance: 28.774815
+
+[Step 22] Loss: 10.2345, Contribution Variance: 22.850605
+
+[Step 23] Loss: 10.1315, Contribution Variance: 21.527233
+
+[Step 24] Loss: 10.0807, Contribution Variance: 21.444742
+
+Optimization Finished
+Time taken: 2926.9273 seconds
+Best Loss 10.011768341064453
+############# Target Question: 43 #############
+Question: Football legend Eric Cantona performed the first concert of his singer-songwriter career last weekend. In which French city did it take place?
+
+[Step 0] Loss: 17.9145, Contribution Variance: 28.617939
+
+Optimization Finished
+Time taken: 180.7544 seconds
+Best Loss 16.739328384399414
+############# Target Question: 44 #############
+Question: The president of which African country travelled to China this week to ask for a $1 billion loan?
+
+Optimization Finished
+Time taken: 113.4007 seconds
+Best Loss 22.05352210998535
+############# Target Question: 48 #############
+Question: Which medication is expected to substantially increase in price in the coming months?
+
+[Step 0] Loss: 33.7894, Contribution Variance: 116.356163
+
+[Step 1] Loss: 30.5255, Contribution Variance: 104.186569
+
+[Step 2] Loss: 26.6400, Contribution Variance: 78.478943
+
+[Step 3] Loss: 25.5691, Contribution Variance: 73.636063
+
+[Step 4] Loss: 25.2123, Contribution Variance: 72.826340
+
+[Step 5] Loss: 24.7292, Contribution Variance: 73.959106
+
+[Step 6] Loss: 24.1790, Contribution Variance: 68.216301
+
+[Step 7] Loss: 24.0115, Contribution Variance: 68.410255
+
+[Step 8] Loss: 24.0075, Contribution Variance: 67.275940
+
+[Step 9] Loss: 23.9201, Contribution Variance: 67.469910
+
+[Step 10] Loss: 23.9201, Contribution Variance: 67.267838
+
+[Step 11] Loss: 23.9363, Contribution Variance: 67.480865
+
+[Step 12] Loss: 23.8533, Contribution Variance: 68.059143
+
+[Step 13] Loss: 23.7406, Contribution Variance: 68.315018
+
+[Step 14] Loss: 23.6785, Contribution Variance: 67.327415
+
+[Step 15] Loss: 23.6041, Contribution Variance: 65.643631
+
+[Step 16] Loss: 23.4950, Contribution Variance: 66.062027
+
+[Step 17] Loss: 23.4718, Contribution Variance: 67.043633
+
+[Step 18] Loss: 23.2167, Contribution Variance: 66.704094
+
+[Step 19] Loss: 23.0709, Contribution Variance: 65.486916
+
+[Step 20] Loss: 22.9981, Contribution Variance: 66.012840
+
+[Step 21] Loss: 22.9583, Contribution Variance: 66.172752
+
+[Step 22] Loss: 22.9252, Contribution Variance: 65.590073
+
+[Step 23] Loss: 22.8026, Contribution Variance: 64.492722
+
+[Step 24] Loss: 22.7402, Contribution Variance: 64.806564
+
+[Step 25] Loss: 22.7154, Contribution Variance: 64.850891
+
+[Step 26] Loss: 22.6047, Contribution Variance: 62.346779
+
+[Step 27] Loss: 22.3996, Contribution Variance: 65.067741
+
+[Step 28] Loss: 22.2880, Contribution Variance: 66.183205
+
+[Step 29] Loss: 22.2099, Contribution Variance: 65.983353
+
+[Step 30] Loss: 22.0442, Contribution Variance: 63.566673
+
+[Step 31] Loss: 21.9837, Contribution Variance: 62.572186
+
+[Step 32] Loss: 21.9371, Contribution Variance: 62.754601
+
+[Step 33] Loss: 21.8556, Contribution Variance: 60.603493
+
+[Step 34] Loss: 21.7725, Contribution Variance: 59.886921
+
+[Step 35] Loss: 21.7371, Contribution Variance: 59.953522
+
+[Step 36] Loss: 21.6106, Contribution Variance: 58.462372
+
+[Step 37] Loss: 21.5961, Contribution Variance: 58.144299
+
+[Step 38] Loss: 21.4973, Contribution Variance: 58.147694
+
+[Step 39] Loss: 21.4545, Contribution Variance: 58.158058
+
+[Step 40] Loss: 21.4517, Contribution Variance: 58.072701
+
+[Step 41] Loss: 21.3754, Contribution Variance: 57.910755
+
+[Step 42] Loss: 21.3485, Contribution Variance: 57.661274
+
+[Step 43] Loss: 21.3395, Contribution Variance: 57.344055
+
+[Step 44] Loss: 21.3110, Contribution Variance: 57.714680
+
+[Step 45] Loss: 21.2882, Contribution Variance: 57.457611
+
+[Step 46] Loss: 21.2672, Contribution Variance: 56.735035
+
+[Step 47] Loss: 21.2597, Contribution Variance: 56.506306
+
+[Step 48] Loss: 21.2148, Contribution Variance: 56.621960
+
+[Step 49] Loss: 21.1235, Contribution Variance: 56.242371
+
+[Step 50] Loss: 21.1272, Contribution Variance: 56.645947
+
+[Step 51] Loss: 21.1021, Contribution Variance: 56.690094
+
+[Step 52] Loss: 21.0529, Contribution Variance: 56.743385
+
+[Step 53] Loss: 21.0642, Contribution Variance: 56.308453
+
+[Step 54] Loss: 21.0753, Contribution Variance: 56.012390
+
+[Step 55] Loss: 21.0906, Contribution Variance: 56.440056
+
+[Step 56] Loss: 21.0377, Contribution Variance: 56.945507
+
+[Step 57] Loss: 20.9807, Contribution Variance: 57.643963
+
+[Step 58] Loss: 20.9510, Contribution Variance: 57.042549
+
+[Step 59] Loss: 20.8986, Contribution Variance: 56.886505
+
+[Step 60] Loss: 20.8805, Contribution Variance: 57.073498
+
+[Step 61] Loss: 20.8647, Contribution Variance: 56.708199
+
+[Step 62] Loss: 20.8556, Contribution Variance: 56.567039
+
+[Step 63] Loss: 20.8145, Contribution Variance: 55.820137
+
+[Step 64] Loss: 20.7752, Contribution Variance: 55.669239
+
+[Step 65] Loss: 20.7806, Contribution Variance: 55.837269
+
+[Step 66] Loss: 20.7891, Contribution Variance: 55.934456
+
+[Step 67] Loss: 20.7265, Contribution Variance: 55.762299
+
+[Step 68] Loss: 20.6818, Contribution Variance: 55.235279
+
+[Step 69] Loss: 20.6403, Contribution Variance: 54.944599
+
+[Step 70] Loss: 20.5703, Contribution Variance: 54.640312
+
+[Step 71] Loss: 20.5508, Contribution Variance: 55.178749
+
+[Step 72] Loss: 20.5035, Contribution Variance: 55.024628
+
+[Step 73] Loss: 20.4576, Contribution Variance: 55.317375
+
+[Step 74] Loss: 20.4195, Contribution Variance: 55.321838
+
+[Step 75] Loss: 20.4208, Contribution Variance: 55.146233
+
+[Step 76] Loss: 20.3682, Contribution Variance: 55.013298
+
+[Step 77] Loss: 20.3520, Contribution Variance: 56.014412
+
+[Step 78] Loss: 20.3346, Contribution Variance: 55.199791
+
+[Step 79] Loss: 20.2659, Contribution Variance: 54.952930
+
+[Step 80] Loss: 20.2750, Contribution Variance: 55.402901
+
+[Step 81] Loss: 20.2701, Contribution Variance: 55.628517
+
+[Step 82] Loss: 20.2552, Contribution Variance: 55.641003
+
+[Step 83] Loss: 20.2692, Contribution Variance: 55.386158
+
+[Step 84] Loss: 20.2366, Contribution Variance: 55.225273
+
+[Step 85] Loss: 20.1933, Contribution Variance: 54.753357
+
+[Step 86] Loss: 20.1006, Contribution Variance: 55.103100
+
+[Step 87] Loss: 20.1095, Contribution Variance: 54.223351
+
+[Step 88] Loss: 19.9813, Contribution Variance: 55.479851
+
+[Step 89] Loss: 19.8729, Contribution Variance: 56.477303
+
+[Step 90] Loss: 19.8352, Contribution Variance: 56.979023
+
+[Step 91] Loss: 19.7033, Contribution Variance: 54.688408
+
+[Step 92] Loss: 19.5197, Contribution Variance: 55.053436
+
+[Step 93] Loss: 19.3868, Contribution Variance: 55.103355
+
+[Step 94] Loss: 19.3868, Contribution Variance: 55.103355
+
+[Step 95] Loss: 19.3466, Contribution Variance: 54.441414
+
+[Step 96] Loss: 19.3473, Contribution Variance: 53.900188
+
+[Step 97] Loss: 19.3395, Contribution Variance: 54.102795
+
+[Step 98] Loss: 19.3264, Contribution Variance: 54.424122
+
+[Step 99] Loss: 19.3098, Contribution Variance: 54.380848
+
+Optimization Finished
+Time taken: 12788.6835 seconds
+Best Loss 19.309795379638672
+############# Target Question: 51 #############
+Question: How much was spent on legal services by Delaware schools in the last fiscal year, from October 1 to September 30?
+
+[Step 0] Loss: 24.7723, Contribution Variance: 44.172600
+
+[Step 1] Loss: 24.1795, Contribution Variance: 42.060917
+
+[Step 2] Loss: 23.6139, Contribution Variance: 41.460846
+
+[Step 3] Loss: 23.0686, Contribution Variance: 41.514805
+
+[Step 4] Loss: 22.5851, Contribution Variance: 42.559242
+
+[Step 5] Loss: 22.3323, Contribution Variance: 42.611252
+
+[Step 6] Loss: 22.0352, Contribution Variance: 42.002537
+
+[Step 7] Loss: 21.7865, Contribution Variance: 42.651432
+
+[Step 8] Loss: 21.4715, Contribution Variance: 39.999397
+
+[Step 9] Loss: 21.3017, Contribution Variance: 40.424416
+
+[Step 10] Loss: 21.0206, Contribution Variance: 40.307518
+
+[Step 11] Loss: 20.7309, Contribution Variance: 32.907280
+
+[Step 12] Loss: 20.4734, Contribution Variance: 33.932472
+
+[Step 13] Loss: 20.2310, Contribution Variance: 33.630863
+
+[Step 14] Loss: 19.9611, Contribution Variance: 33.253365
+
+[Step 15] Loss: 19.8035, Contribution Variance: 33.217102
+
+[Step 16] Loss: 19.5894, Contribution Variance: 33.572159
+
+[Step 17] Loss: 19.4422, Contribution Variance: 33.784637
+
+[Step 18] Loss: 19.3434, Contribution Variance: 34.778793
+
+[Step 19] Loss: 19.2529, Contribution Variance: 35.442551
+
+[Step 20] Loss: 19.1919, Contribution Variance: 35.467579
+
+[Step 21] Loss: 19.0239, Contribution Variance: 35.033791
+
+[Step 22] Loss: 18.9061, Contribution Variance: 35.573334
+
+[Step 23] Loss: 18.8090, Contribution Variance: 35.552711
+
+[Step 24] Loss: 18.7277, Contribution Variance: 34.498226
+
+[Step 25] Loss: 18.6296, Contribution Variance: 34.420532
+
+[Step 26] Loss: 18.6167, Contribution Variance: 34.355362
+
+[Step 27] Loss: 18.5712, Contribution Variance: 32.501747
+
+[Step 28] Loss: 18.4983, Contribution Variance: 31.922724
+
+[Step 29] Loss: 18.4423, Contribution Variance: 32.212154
+
+[Step 30] Loss: 18.3962, Contribution Variance: 32.296017
+
+[Step 31] Loss: 18.1958, Contribution Variance: 32.563404
+
+[Step 32] Loss: 18.1490, Contribution Variance: 32.807301
+
+[Step 33] Loss: 18.0367, Contribution Variance: 32.151260
+
+[Step 34] Loss: 17.9817, Contribution Variance: 30.004938
+
+[Step 35] Loss: 17.9117, Contribution Variance: 29.491199
+
+[Step 36] Loss: 17.8452, Contribution Variance: 29.258017
+
+[Step 37] Loss: 17.8529, Contribution Variance: 29.326817
+
+[Step 38] Loss: 17.8469, Contribution Variance: 29.945740
+
+[Step 39] Loss: 17.7641, Contribution Variance: 30.900232
+
+[Step 40] Loss: 17.6449, Contribution Variance: 30.111755
+
+[Step 41] Loss: 17.6143, Contribution Variance: 30.120047
+
+[Step 42] Loss: 17.5448, Contribution Variance: 29.752447
+
+[Step 43] Loss: 17.4440, Contribution Variance: 29.314993
+
+[Step 44] Loss: 17.3845, Contribution Variance: 28.943790
+
+[Step 45] Loss: 17.2366, Contribution Variance: 29.154562
+
+[Step 46] Loss: 17.2054, Contribution Variance: 29.037714
+
+[Step 47] Loss: 17.1845, Contribution Variance: 29.158749
+
+[Step 48] Loss: 17.1767, Contribution Variance: 28.819342
+
+[Step 49] Loss: 16.9945, Contribution Variance: 29.067907
+
+[Step 50] Loss: 16.9777, Contribution Variance: 28.813009
+
+[Step 51] Loss: 16.9509, Contribution Variance: 28.684963
+
+[Step 52] Loss: 16.9335, Contribution Variance: 28.553873
+
+[Step 53] Loss: 16.9321, Contribution Variance: 28.804556
+
+[Step 54] Loss: 16.9205, Contribution Variance: 29.018301
+
+[Step 55] Loss: 16.9342, Contribution Variance: 28.889734
+
+[Step 56] Loss: 16.8970, Contribution Variance: 28.633121
+
+[Step 57] Loss: 16.8181, Contribution Variance: 28.669123
+
+[Step 58] Loss: 16.8240, Contribution Variance: 28.964916
+
+[Step 59] Loss: 16.7624, Contribution Variance: 29.176632
+
+[Step 60] Loss: 16.6902, Contribution Variance: 28.866226
+
+[Step 61] Loss: 16.6153, Contribution Variance: 28.232758
+
+[Step 62] Loss: 16.6153, Contribution Variance: 28.232758
+
+[Step 63] Loss: 16.6390, Contribution Variance: 28.478012
+
+[Step 64] Loss: 16.6619, Contribution Variance: 28.615925
+
+[Step 65] Loss: 16.6838, Contribution Variance: 28.656788
+
+[Step 66] Loss: 16.6548, Contribution Variance: 28.712851
+
+[Step 67] Loss: 16.6848, Contribution Variance: 28.970098
+
+[Step 68] Loss: 16.6775, Contribution Variance: 29.006979
+
+[Step 69] Loss: 16.6508, Contribution Variance: 28.931202
+
+[Step 70] Loss: 16.6035, Contribution Variance: 28.840694
+
+[Step 71] Loss: 16.5999, Contribution Variance: 28.678158
+
+[Step 72] Loss: 16.6051, Contribution Variance: 27.871964
+
+[Step 73] Loss: 16.5540, Contribution Variance: 28.064112
+
+[Step 74] Loss: 16.5689, Contribution Variance: 27.353134
+
+[Step 75] Loss: 16.6037, Contribution Variance: 27.008448
+
+[Step 76] Loss: 16.5650, Contribution Variance: 27.043554
+
+[Step 77] Loss: 16.5444, Contribution Variance: 27.088390
+
+[Step 78] Loss: 16.5268, Contribution Variance: 26.734976
+
+[Step 79] Loss: 16.5553, Contribution Variance: 27.153011
+
+[Step 80] Loss: 16.5580, Contribution Variance: 27.332401
+
+[Step 81] Loss: 16.5523, Contribution Variance: 27.262066
+
+[Step 82] Loss: 16.5455, Contribution Variance: 27.263821
+
+[Step 83] Loss: 16.5285, Contribution Variance: 26.986813
+
+[Step 84] Loss: 16.5135, Contribution Variance: 27.015574
+
+[Step 85] Loss: 16.4983, Contribution Variance: 27.007198
+
+[Step 86] Loss: 16.4699, Contribution Variance: 26.919724
+
+[Step 87] Loss: 16.4881, Contribution Variance: 26.773647
+
+[Step 88] Loss: 16.4084, Contribution Variance: 26.985992
+
+[Step 89] Loss: 16.4429, Contribution Variance: 27.112879
+
+[Step 90] Loss: 16.4164, Contribution Variance: 27.529785
+
+[Step 91] Loss: 16.3561, Contribution Variance: 27.739954
+
+[Step 92] Loss: 16.3836, Contribution Variance: 27.914072
+
+[Step 93] Loss: 16.3458, Contribution Variance: 28.016424
+
+[Step 94] Loss: 16.3320, Contribution Variance: 27.861584
+
+[Step 95] Loss: 16.3517, Contribution Variance: 27.754827
+
+[Step 96] Loss: 16.3780, Contribution Variance: 27.925959
+
+[Step 97] Loss: 16.3095, Contribution Variance: 27.688837
+
+[Step 98] Loss: 16.3060, Contribution Variance: 27.463913
+
+[Step 99] Loss: 16.3034, Contribution Variance: 27.597284
+
+Optimization Finished
+Time taken: 16155.0540 seconds
+Best Loss 16.303367614746094
+############# Target Question: 52 #############
+Question: Who is the Republican candidate seeking the nomination for Delaware's at-large U.S. House of Representatives seat in the upcoming election?
+
+[Step 0] Loss: 30.6185, Contribution Variance: 112.853676
+
+[Step 1] Loss: 26.4860, Contribution Variance: 81.604813
+
+[Step 2] Loss: 25.5111, Contribution Variance: 73.725647
+
+[Step 3] Loss: 24.9109, Contribution Variance: 71.264198
+
+[Step 4] Loss: 23.9478, Contribution Variance: 68.933449
+
+[Step 5] Loss: 23.5028, Contribution Variance: 67.725227
+
+[Step 6] Loss: 23.2902, Contribution Variance: 68.189148
+
+[Step 7] Loss: 22.7320, Contribution Variance: 66.263115
+
+[Step 8] Loss: 22.5834, Contribution Variance: 67.185478
+
+[Step 9] Loss: 22.3345, Contribution Variance: 65.859299
+
+[Step 10] Loss: 22.1081, Contribution Variance: 65.084297
+
+[Step 11] Loss: 21.9942, Contribution Variance: 65.526230
+
+[Step 12] Loss: 21.8184, Contribution Variance: 65.293289
+
+[Step 13] Loss: 21.3519, Contribution Variance: 65.125938
+
+[Step 14] Loss: 21.2915, Contribution Variance: 64.244911
+
+[Step 15] Loss: 21.1274, Contribution Variance: 62.234917
+
+[Step 16] Loss: 21.0371, Contribution Variance: 63.499123
+
+[Step 17] Loss: 20.8484, Contribution Variance: 61.801735
+
+[Step 18] Loss: 20.4986, Contribution Variance: 61.346386
+
+[Step 19] Loss: 20.3855, Contribution Variance: 60.297840
+
+[Step 20] Loss: 20.2103, Contribution Variance: 60.470833
+
+[Step 21] Loss: 20.1128, Contribution Variance: 59.697594
+
+[Step 22] Loss: 19.9923, Contribution Variance: 60.495655
+
+[Step 23] Loss: 19.9346, Contribution Variance: 58.502724
+
+[Step 24] Loss: 19.9221, Contribution Variance: 58.551170
+
+[Step 25] Loss: 19.8424, Contribution Variance: 58.312550
+
+[Step 26] Loss: 19.7491, Contribution Variance: 57.987419
+
+[Step 27] Loss: 19.6972, Contribution Variance: 58.722309
+
+[Step 28] Loss: 19.6381, Contribution Variance: 59.023022
+
+[Step 29] Loss: 19.5836, Contribution Variance: 58.912941
+
+[Step 30] Loss: 19.4506, Contribution Variance: 58.412964
+
+[Step 31] Loss: 19.3621, Contribution Variance: 58.305351
+
+[Step 32] Loss: 19.2868, Contribution Variance: 60.143665
+
+[Step 33] Loss: 19.2233, Contribution Variance: 59.415455
+
+[Step 34] Loss: 19.1496, Contribution Variance: 59.607616
+
+[Step 35] Loss: 19.1271, Contribution Variance: 59.592773
+
+[Step 36] Loss: 19.0550, Contribution Variance: 58.521362
+
+[Step 37] Loss: 18.8684, Contribution Variance: 57.913952
+
+[Step 38] Loss: 18.8090, Contribution Variance: 58.023285
+
+[Step 39] Loss: 18.5725, Contribution Variance: 58.025349
+
+[Step 40] Loss: 18.4965, Contribution Variance: 60.362511
+
+[Step 41] Loss: 18.4584, Contribution Variance: 60.513916
+
+[Step 42] Loss: 18.4616, Contribution Variance: 60.184204
+
+[Step 43] Loss: 18.4150, Contribution Variance: 59.483471
+
+[Step 44] Loss: 18.3526, Contribution Variance: 59.663910
+
+[Step 45] Loss: 18.2842, Contribution Variance: 58.808491
+
+[Step 46] Loss: 18.1951, Contribution Variance: 58.512459
+
+[Step 47] Loss: 18.1529, Contribution Variance: 58.165825
+
+[Step 48] Loss: 18.1521, Contribution Variance: 58.053162
+
+[Step 49] Loss: 18.0857, Contribution Variance: 58.341484
+
+[Step 50] Loss: 18.0086, Contribution Variance: 58.890331
+
+[Step 51] Loss: 17.9801, Contribution Variance: 58.725380
+
+[Step 52] Loss: 17.9085, Contribution Variance: 58.954670
+
+[Step 53] Loss: 17.9046, Contribution Variance: 58.551575
+
+[Step 54] Loss: 17.8869, Contribution Variance: 58.709644
+
+[Step 55] Loss: 17.8487, Contribution Variance: 58.768372
+
+[Step 56] Loss: 17.7528, Contribution Variance: 58.748005
+
+[Step 57] Loss: 17.6991, Contribution Variance: 58.162994
+
+[Step 58] Loss: 17.6875, Contribution Variance: 56.432037
+
+[Step 59] Loss: 17.6144, Contribution Variance: 56.575630
+
+[Step 60] Loss: 17.5972, Contribution Variance: 55.901970
+
+[Step 61] Loss: 17.3836, Contribution Variance: 58.598389
+
+[Step 62] Loss: 17.3345, Contribution Variance: 57.166790
+
+[Step 63] Loss: 17.3345, Contribution Variance: 57.166790
+
+[Step 64] Loss: 17.3033, Contribution Variance: 57.892700
+
+[Step 65] Loss: 17.2735, Contribution Variance: 57.188305
+
+[Step 66] Loss: 17.2615, Contribution Variance: 57.844231
+
+[Step 67] Loss: 17.2712, Contribution Variance: 57.113350
+
+[Step 68] Loss: 17.2346, Contribution Variance: 57.709656
+
+[Step 69] Loss: 17.2287, Contribution Variance: 58.073792
+
+[Step 70] Loss: 17.1960, Contribution Variance: 57.545818
+
+[Step 71] Loss: 17.1565, Contribution Variance: 57.337261
+
+[Step 72] Loss: 17.1384, Contribution Variance: 56.738365
+
+[Step 73] Loss: 17.1184, Contribution Variance: 56.951576
+
+[Step 74] Loss: 17.0788, Contribution Variance: 56.482430
+
+[Step 75] Loss: 17.0643, Contribution Variance: 56.512634
+
+[Step 76] Loss: 17.0785, Contribution Variance: 57.524834
+
+[Step 77] Loss: 17.0718, Contribution Variance: 57.330193
+
+[Step 78] Loss: 17.0659, Contribution Variance: 56.803764
+
+[Step 79] Loss: 17.0627, Contribution Variance: 56.493786
+
+[Step 80] Loss: 17.0499, Contribution Variance: 56.545982
+
+[Step 81] Loss: 17.0102, Contribution Variance: 56.162914
+
+[Step 82] Loss: 17.0199, Contribution Variance: 56.675148
+
+[Step 83] Loss: 17.0039, Contribution Variance: 56.514233
+
+[Step 84] Loss: 17.0059, Contribution Variance: 55.904663
+
+[Step 85] Loss: 16.9623, Contribution Variance: 55.055981
+
+[Step 86] Loss: 16.9379, Contribution Variance: 55.153492
+
+[Step 87] Loss: 16.9160, Contribution Variance: 55.200203
+
+[Step 88] Loss: 16.8368, Contribution Variance: 55.159687
+
+[Step 89] Loss: 16.8260, Contribution Variance: 54.889923
+
+[Step 90] Loss: 16.8073, Contribution Variance: 55.002277
+
+[Step 91] Loss: 16.8260, Contribution Variance: 55.060616
+
+[Step 92] Loss: 16.7982, Contribution Variance: 54.909920
+
+[Step 93] Loss: 16.8239, Contribution Variance: 54.727486
+
+[Step 94] Loss: 16.8239, Contribution Variance: 54.727486
+
+[Step 95] Loss: 16.7686, Contribution Variance: 54.601856
+
+[Step 96] Loss: 16.7321, Contribution Variance: 54.573456
+
+[Step 97] Loss: 16.7368, Contribution Variance: 54.463654
+
+[Step 98] Loss: 16.7368, Contribution Variance: 54.463654
+
+[Step 99] Loss: 16.6968, Contribution Variance: 54.876820
+
+Optimization Finished
+Time taken: 12971.0214 seconds
+Best Loss 16.696840286254883
