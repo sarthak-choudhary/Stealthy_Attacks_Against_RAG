@@ -99,3 +99,16 @@ Since many of the evaluations — particularly the adaptive attacks — are time
 
 ## Acknowledgment
 The code and datasets of the evaluation largely reuse [PoisonedRAG](https://github.com/sleeepeer/PoisonedRAG) and [Certifiably Robust RAG](https://github.com/inspire-group/RobustRAG).
+
+## Citation
+
+If you use our code, kindly cite the following paper:
+
+```
+@article{choudhary2025through,
+  title={Through the Stealth Lens: Rethinking Attacks and Defenses in RAG},
+  author={Choudhary, Sarthak and Palumbo, Nils and Hooda, Ashish and Dvijotham, Krishnamurthy Dj and Jha, Somesh},
+  journal={arXiv preprint arXiv:2506.04390},
+  year={2025}
+}
+```
