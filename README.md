@@ -1,6 +1,6 @@
 # Stealthy Attacks Against RAG
 
-This is the evaluation code of the paper "Through the Stealth Lens: Rethinking Attacks and Defenses in RAG". 
+This is the evaluation code of the paper [Through the Stealth Lens: Rethinking Attacks and Defenses in RAG](https://arxiv.org/abs/2506.04390). 
 
 This serves as an evaluation of existing poisoning attacks designed for Retrieval-augmented Generation (RAG) systems against the AV Filter proposed in the aforementioned paper. 
 
